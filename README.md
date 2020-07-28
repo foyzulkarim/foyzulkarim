@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 📫 How to reach me: Email me at foyzulkarim@gmail.com 🙂
 <!--
 **foyzulkarim/foyzulkarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
