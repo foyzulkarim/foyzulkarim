@@ -4,6 +4,9 @@
 [![Foyzul's GitHub stats](https://github-readme-stats.vercel.app/api?username=foyzulkarim)](https://github.com/foyzulkarim/github-readme-stats)
 
 ![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=foyzulkarim&theme=blue-green)
+
+
+[![Visits Badge](https://badges.pufler.dev/visits/foyzulkarim/foyzulkarim)](https://github.com/foyzulkarim)
 <!--
 **foyzulkarim/foyzulkarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
