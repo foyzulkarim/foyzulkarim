@@ -1,5 +1,9 @@
 ### Hi there 👋
 - 📫 How to reach me: Email me at foyzulkarim@gmail.com 🙂
+
+[![Foyzul's GitHub stats](https://github-readme-stats.vercel.app/api?username=foyzulkarim)](https://github.com/foyzulkarim/github-readme-stats)
+
+
 <!--
 **foyzulkarim/foyzulkarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
