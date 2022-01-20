@@ -1,13 +1,15 @@
 ## Hi there 👋
 ### Thanks for visiting my profile. I'm a software engineer based in Melbourne.
 
-## 📫 How to reach me:
+## How to reach me:
 - Facebook: https://www.facebook.com/foyzulsacademy
 - Blog: https://dev.to/foyzulkarim
 - Twitter: https://twitter.com/foyzul_karim
 - GitHub: https://github.com/foyzulkarim
 - LinkedIn: https://www.linkedin.com/in/foyzul
 - Email: foyzulkarim@gmail.com
+
+## My CV/Resume:
 
 You can see and download the pdf copy of my latest resume from below (I removed my phone number though) 👇
 
