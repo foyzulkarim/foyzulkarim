@@ -1,6 +1,15 @@
 ### Hi there 👋
 - 📫 How to reach me: Email me at foyzulkarim@gmail.com 🙂
 
+You can see and download my latest resume [Foyzul Karim Resume](https://drive.google.com/file/d/16J-NpmX1Z3vLbUs9RSudjTmNx8YNQYdt/view?usp=sharing)
+
+
+![Page1](cv-page-1.jpg)
+
+
+![Page2](cv-page-2.jpg)
+
+
 [![Foyzul's GitHub stats](https://github-readme-stats.vercel.app/api?username=foyzulkarim)](https://github.com/foyzulkarim/github-readme-stats)
 
 ![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=foyzulkarim&theme=blue-green)
