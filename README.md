@@ -1,7 +1,21 @@
-### Hi there 👋
-- 📫 How to reach me: Email me at foyzulkarim@gmail.com 🙂
+## Hi there 👋
+### Thanks for visiting my profile. I'm a software engineer based in Melbourne.
 
-You can see and download my latest resume [Foyzul Karim Resume](https://drive.google.com/file/d/16J-NpmX1Z3vLbUs9RSudjTmNx8YNQYdt/view?usp=sharing)
+## 📫 How to reach me:
+- Facebook: https://www.facebook.com/foyzulsacademy
+- Blog: https://dev.to/foyzulkarim
+- Twitter: https://twitter.com/foyzul_karim
+- GitHub: https://github.com/foyzulkarim
+- LinkedIn: https://www.linkedin.com/in/foyzul
+- Email: foyzulkarim@gmail.com
+
+You can see and download the pdf copy of my latest resume from below (I removed my phone number though) 👇
+
+- [Google Drive](https://drive.google.com/file/d/16J-NpmX1Z3vLbUs9RSudjTmNx8YNQYdt/view?usp=sharing)
+- [GitHub view](https://github.com/foyzulkarim/foyzulkarim/blob/master/Resume-Foyzul-Karim.pdf)
+- [GitHub download](https://raw.githubusercontent.com/foyzulkarim/foyzulkarim/master/Resume-Foyzul-Karim.pdf)
+
+Or watch it here (low resolution) 👇
 
 
 ![Page1](cv-page-1.jpg)
