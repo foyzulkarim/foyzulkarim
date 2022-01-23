@@ -17,14 +17,6 @@ You can see and download the pdf copy of my latest resume from below (I removed 
 - [GitHub view](https://github.com/foyzulkarim/foyzulkarim/blob/master/Resume-Foyzul-Karim.pdf)
 - [GitHub download](https://raw.githubusercontent.com/foyzulkarim/foyzulkarim/master/Resume-Foyzul-Karim.pdf)
 
-Or watch it here (low resolution) 👇
-
-
-![Page1](cv-page-1.jpg)
-
-
-![Page2](cv-page-2.jpg)
-
 
 [![Foyzul's GitHub stats](https://github-readme-stats.vercel.app/api?username=foyzulkarim)](https://github.com/foyzulkarim/github-readme-stats)
 
