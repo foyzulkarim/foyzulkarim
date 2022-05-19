@@ -18,12 +18,7 @@ You can see and download the pdf copy of my latest resume from below (I removed 
 - [GitHub download](https://raw.githubusercontent.com/foyzulkarim/foyzulkarim/master/Resume-Foyzul-Karim.pdf)
 
 
-[![Foyzul's GitHub stats](https://github-readme-stats.vercel.app/api?username=foyzulkarim)](https://github.com/foyzulkarim/github-readme-stats)
 
-![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=foyzulkarim&theme=blue-green)
-
-
-[![Visits Badge](https://badges.pufler.dev/visits/foyzulkarim/foyzulkarim)](https://github.com/foyzulkarim)
 <!--
 **foyzulkarim/foyzulkarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
