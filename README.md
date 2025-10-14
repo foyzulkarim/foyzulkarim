@@ -1,9 +1,9 @@
 ## Hi there 👋
-### Thanks for visiting my profile. I'm a software engineer based in Melbourne.
+### Thanks for visiting my profile. I'm a senior software engineer based in Melbourne.
 
 ## How to reach me:
 - Facebook: https://www.facebook.com/foyzulsacademy
-- Blog: https://dev.to/foyzulkarim
+- Blog: https://dev.to/foyzulkarim, https://foyzulkarim.medium.com, https://foyzul.substack.com
 - Twitter: https://twitter.com/foyzul_karim
 - GitHub: https://github.com/foyzulkarim
 - LinkedIn: https://www.linkedin.com/in/foyzul
@@ -13,11 +13,15 @@
 
 You can see and download the pdf copy of my latest resume from below (I removed my phone number though) 👇
 
-- [Google Drive](https://drive.google.com/file/d/16J-NpmX1Z3vLbUs9RSudjTmNx8YNQYdt/view?usp=sharing)
 - [GitHub view](https://github.com/foyzulkarim/foyzulkarim/blob/master/Resume-Foyzul-Karim.pdf)
 - [GitHub download](https://raw.githubusercontent.com/foyzulkarim/foyzulkarim/master/Resume-Foyzul-Karim.pdf)
 
+## 🔭 I’m currently working on
 
+### CodiesVibe - AI Tools Directory
+A production-grade AI tools directory built with TypeScript, React, and NestJS, featuring comprehensive Docker containerization, automated CI/CD pipelines, and multi-environment deployment strategies.
+
+https://github.com/foyzulkarim/codiesvibe
 
 <!--
 **foyzulkarim/foyzulkarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
