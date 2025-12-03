@@ -117,6 +117,7 @@ jobs:
           # Get repo names for traffic API (REST only, with pagination)
           total_views=0
           traffic_page=1
+          views_data=""
 
           while true; do
             repos=$(gh api "users/$USERNAME/repos?per_page=100&page=$traffic_page&type=owner" --jq '.[].name' 2>/dev/null || echo "")
@@ -127,7 +128,10 @@ jobs:
             for repo in $repos; do
               views=$(gh api "repos/$USERNAME/$repo/traffic/views" --jq '.count // 0' 2>/dev/null || echo "0")
               total_views=$((total_views + views))
-              [ "$views" -gt 0 ] && echo "  $repo: $views views"
+              if [ "$views" -gt 0 ]; then
+                echo "  $repo: $views views"
+                views_data="${views_data}${views} ${repo}"$'\n'
+              fi
               sleep 0.5  # Rate limit protection
             done
 
@@ -137,6 +141,27 @@ jobs:
 
             traffic_page=$((traffic_page + 1))
           done
+
+          # Sort by views (descending) and take top 10
+          TOP_REPOS_COUNT=10
+          echo ""
+          echo "=== Top $TOP_REPOS_COUNT Repositories by Views ==="
+          top_repos_table="| Repository | Views |"$'\n'
+          top_repos_table+="|------------|-------|"$'\n'
+
+          top_repos=$(echo "$views_data" | sort -t' ' -k1 -nr | head -n $TOP_REPOS_COUNT)
+          while IFS= read -r line; do
+            [ -z "$line" ] && continue
+            repo_views=$(echo "$line" | cut -d' ' -f1)
+            repo_name=$(echo "$line" | cut -d' ' -f2-)
+            echo "  $repo_name: $repo_views views"
+            top_repos_table+="| [$repo_name](https://github.com/$USERNAME/$repo_name) | $repo_views |"$'\n'
+          done <<< "$top_repos"
+
+          # Export top repos table (use delimiter for multiline)
+          echo "TOP_REPOS_TABLE<<EOF" >> $GITHUB_ENV
+          echo "$top_repos_table" >> $GITHUB_ENV
+          echo "EOF" >> $GITHUB_ENV
 
           echo ""
           echo "=== Final Metrics ==="
@@ -165,6 +190,13 @@ jobs:
           sed -i "s|<!--TOTAL_FOLLOWERS-->.*<!--/TOTAL_FOLLOWERS-->|<!--TOTAL_FOLLOWERS-->${TOTAL_FOLLOWERS}<!--/TOTAL_FOLLOWERS-->|" README.md
           sed -i "s|<!--TOTAL_VIEWS-->.*<!--/TOTAL_VIEWS-->|<!--TOTAL_VIEWS-->${TOTAL_VIEWS}<!--/TOTAL_VIEWS-->|" README.md
           sed -i "s|<!--LAST_UPDATED-->.*<!--/LAST_UPDATED-->|<!--LAST_UPDATED-->${LAST_UPDATED}<!--/LAST_UPDATED-->|" README.md
+
+          # Replace top repos table (multiline)
+          awk -v table="$TOP_REPOS_TABLE" '
+            /<!--TOP_REPOS_START-->/ { print; print table; skip=1; next }
+            /<!--TOP_REPOS_END-->/ { skip=0 }
+            !skip { print }
+          ' README.md > README.tmp && mv README.tmp README.md
 
       - name: Commit and push
         run: |

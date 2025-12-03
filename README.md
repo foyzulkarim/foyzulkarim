@@ -14,6 +14,12 @@
 
 <sub>Last updated: <!--LAST_UPDATED-->2025-12-03 00:31 UTC<!--/LAST_UPDATED--></sub>
 
+### Top 10 Repositories (by views, last 14 days)
+<!--TOP_REPOS_START-->
+| Repository | Views |
+|------------|-------|
+<!--TOP_REPOS_END-->
+
 ## How to reach me:
 - Facebook: https://www.facebook.com/foyzulsacademy
 - Blog: https://dev.to/foyzulkarim, https://foyzulkarim.medium.com, https://foyzul.substack.com
