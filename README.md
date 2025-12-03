@@ -1,6 +1,18 @@
 ## Hi there 👋
 ### Thanks for visiting my profile. I'm a senior software engineer based in Melbourne.
 
+## GitHub Stats
+
+| Metric | Count |
+|--------|-------|
+| Repositories | <!--TOTAL_REPOS-->0<!--/TOTAL_REPOS--> |
+| Stars | <!--TOTAL_STARS-->0<!--/TOTAL_STARS--> |
+| Forks | <!--TOTAL_FORKS-->0<!--/TOTAL_FORKS--> |
+| Watchers | <!--TOTAL_WATCHERS-->0<!--/TOTAL_WATCHERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->0<!--/TOTAL_VIEWS--> |
+
+<sub>Last updated: <!--LAST_UPDATED-->Never<!--/LAST_UPDATED--></sub>
+
 ## How to reach me:
 - Facebook: https://www.facebook.com/foyzulsacademy
 - Blog: https://dev.to/foyzulkarim, https://foyzulkarim.medium.com, https://foyzul.substack.com

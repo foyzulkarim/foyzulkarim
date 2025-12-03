@@ -1,0 +1,171 @@
+name: Update GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"    # Daily at midnight UTC
+  workflow_dispatch:       # Manual trigger for testing
+
+jobs:
+  update-metrics:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Verify dependencies
+        run: |
+          echo "Checking gh CLI..."
+          gh --version
+          echo "Checking jq..."
+          jq --version
+
+      - name: Collect metrics via GraphQL
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: foyzulkarim
+        run: |
+          set -e
+
+          echo "Fetching metrics for $USERNAME..."
+
+          # GraphQL query for stars, forks, watchers, repo count
+          QUERY='
+          query($username: String!, $cursor: String) {
+            user(login: $username) {
+              repositories(first: 100, after: $cursor, ownerAffiliations: OWNER, isFork: false) {
+                totalCount
+                pageInfo {
+                  hasNextPage
+                  endCursor
+                }
+                nodes {
+                  name
+                  stargazerCount
+                  forkCount
+                  watchers {
+                    totalCount
+                  }
+                }
+              }
+            }
+          }'
+
+          total_stars=0
+          total_forks=0
+          total_watchers=0
+          total_repos=0
+          cursor="null"
+          page=1
+
+          while true; do
+            echo "Fetching page $page..."
+
+            if [ "$cursor" = "null" ]; then
+              response=$(gh api graphql \
+                -f query="$QUERY" \
+                -f username="$USERNAME" \
+                --jq '.data.user.repositories' 2>/dev/null || echo "{}")
+            else
+              response=$(gh api graphql \
+                -f query="$QUERY" \
+                -f username="$USERNAME" \
+                -f cursor="$cursor" \
+                --jq '.data.user.repositories' 2>/dev/null || echo "{}")
+            fi
+
+            # Parse response
+            has_next=$(echo "$response" | jq -r '.pageInfo.hasNextPage // false')
+            cursor=$(echo "$response" | jq -r '.pageInfo.endCursor // "null"')
+
+            # Set total_repos only once (same value on all pages)
+            if [ "$page" -eq 1 ]; then
+              total_repos=$(echo "$response" | jq '.totalCount // 0')
+            fi
+
+            # Sum metrics from this page
+            page_stars=$(echo "$response" | jq '[.nodes[].stargazerCount] | add // 0')
+            page_forks=$(echo "$response" | jq '[.nodes[].forkCount] | add // 0')
+            page_watchers=$(echo "$response" | jq '[.nodes[].watchers.totalCount] | add // 0')
+
+            total_stars=$((total_stars + page_stars))
+            total_forks=$((total_forks + page_forks))
+            total_watchers=$((total_watchers + page_watchers))
+
+            echo "  Page $page: +$page_stars stars, +$page_forks forks, +$page_watchers watchers"
+
+            [ "$has_next" = "false" ] && break
+            page=$((page + 1))
+            sleep 1  # Rate limit protection
+          done
+
+          echo ""
+          echo "Fetching traffic views..."
+
+          # Get repo names for traffic API (REST only, with pagination)
+          total_views=0
+          traffic_page=1
+
+          while true; do
+            repos=$(gh api "users/$USERNAME/repos?per_page=100&page=$traffic_page&type=owner" --jq '.[].name' 2>/dev/null || echo "")
+
+            # Break if no repos returned
+            [ -z "$repos" ] && break
+
+            for repo in $repos; do
+              views=$(gh api "repos/$USERNAME/$repo/traffic/views" --jq '.count // 0' 2>/dev/null || echo "0")
+              total_views=$((total_views + views))
+              [ "$views" -gt 0 ] && echo "  $repo: $views views"
+              sleep 0.5  # Rate limit protection
+            done
+
+            # Check if we got less than 100 repos (last page)
+            repo_count=$(echo "$repos" | wc -l)
+            [ "$repo_count" -lt 100 ] && break
+
+            traffic_page=$((traffic_page + 1))
+          done
+
+          echo ""
+          echo "=== Final Metrics ==="
+          echo "Repositories: $total_repos"
+          echo "Stars: $total_stars"
+          echo "Forks: $total_forks"
+          echo "Watchers: $total_watchers"
+          echo "Views (14 days): $total_views"
+
+          # Export to environment
+          echo "TOTAL_REPOS=$total_repos" >> $GITHUB_ENV
+          echo "TOTAL_STARS=$total_stars" >> $GITHUB_ENV
+          echo "TOTAL_FORKS=$total_forks" >> $GITHUB_ENV
+          echo "TOTAL_WATCHERS=$total_watchers" >> $GITHUB_ENV
+          echo "TOTAL_VIEWS=$total_views" >> $GITHUB_ENV
+          echo "LAST_UPDATED=$(date -u '+%Y-%m-%d %H:%M UTC')" >> $GITHUB_ENV
+
+      - name: Update README
+        run: |
+          sed -i "s|<!--TOTAL_REPOS-->.*<!--/TOTAL_REPOS-->|<!--TOTAL_REPOS-->${TOTAL_REPOS}<!--/TOTAL_REPOS-->|" README.md
+          sed -i "s|<!--TOTAL_STARS-->.*<!--/TOTAL_STARS-->|<!--TOTAL_STARS-->${TOTAL_STARS}<!--/TOTAL_STARS-->|" README.md
+          sed -i "s|<!--TOTAL_FORKS-->.*<!--/TOTAL_FORKS-->|<!--TOTAL_FORKS-->${TOTAL_FORKS}<!--/TOTAL_FORKS-->|" README.md
+          sed -i "s|<!--TOTAL_WATCHERS-->.*<!--/TOTAL_WATCHERS-->|<!--TOTAL_WATCHERS-->${TOTAL_WATCHERS}<!--/TOTAL_WATCHERS-->|" README.md
+          sed -i "s|<!--TOTAL_VIEWS-->.*<!--/TOTAL_VIEWS-->|<!--TOTAL_VIEWS-->${TOTAL_VIEWS}<!--/TOTAL_VIEWS-->|" README.md
+          sed -i "s|<!--LAST_UPDATED-->.*<!--/LAST_UPDATED-->|<!--LAST_UPDATED-->${LAST_UPDATED}<!--/LAST_UPDATED-->|" README.md
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          if ! git diff --quiet README.md; then
+            git add README.md
+            git commit -m "chore: update GitHub metrics [skip ci]"
+            git push
+            echo "README updated successfully!"
+          else
+            echo "No changes to commit."
+          fi
