@@ -10,14 +10,25 @@
 | Forks | <!--TOTAL_FORKS-->564<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1900<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1610<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1605<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2025-12-03 00:57 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2025-12-03 01:03 UTC<!--/LAST_UPDATED--></sub>
 
 ### Top 10 Repositories (by views, last 14 days)
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
+| [codiesvibe](https://github.com/foyzulkarim/codiesvibe) | 451 |
+| [ai-terms-for-engineers](https://github.com/foyzulkarim/ai-terms-for-engineers) | 227 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 198 |
+| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 148 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 127 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 127 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 91 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 50 |
+| [bizbook-server](https://github.com/foyzulkarim/bizbook-server) | 30 |
+| [hikma-engine](https://github.com/foyzulkarim/hikma-engine) | 28 |
+
 <!--TOP_REPOS_END-->
 
 ## How to reach me:
