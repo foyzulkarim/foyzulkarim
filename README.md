@@ -5,14 +5,14 @@
 
 | Metric | Count |
 |--------|-------|
-| Repositories | <!--TOTAL_REPOS-->75<!--/TOTAL_REPOS--> |
+| Repositories | <!--TOTAL_REPOS-->122<!--/TOTAL_REPOS--> |
 | Stars | <!--TOTAL_STARS-->1548<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->564<!--/TOTAL_FORKS--> |
-| Watchers | <!--TOTAL_WATCHERS-->181<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->0<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->0<!--/TOTAL_VIEWS--> |
+| Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1900<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1610<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2025-12-03 00:31 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2025-12-03 00:57 UTC<!--/LAST_UPDATED--></sub>
 
 ## How to reach me:
 - Facebook: https://www.facebook.com/foyzulsacademy
