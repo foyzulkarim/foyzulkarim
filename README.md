@@ -9,6 +9,7 @@
 | Stars | <!--TOTAL_STARS-->1548<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->564<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->181<!--/TOTAL_WATCHERS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->0<!--/TOTAL_FOLLOWERS--> |
 | Views (14 days) | <!--TOTAL_VIEWS-->0<!--/TOTAL_VIEWS--> |
 
 <sub>Last updated: <!--LAST_UPDATED-->2025-12-03 00:31 UTC<!--/LAST_UPDATED--></sub>
