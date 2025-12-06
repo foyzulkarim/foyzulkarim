@@ -6,28 +6,28 @@
 | Metric | Count |
 |--------|-------|
 | Repositories | <!--TOTAL_REPOS-->122<!--/TOTAL_REPOS--> |
-| Stars | <!--TOTAL_STARS-->1549<!--/TOTAL_STARS--> |
+| Stars | <!--TOTAL_STARS-->1548<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->564<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1901<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1784<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1755<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2025-12-05 00:28 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2025-12-06 00:26 UTC<!--/LAST_UPDATED--></sub>
 
 ### Top 10 Repositories (by views, last 14 days)
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [codiesvibe](https://github.com/foyzulkarim/codiesvibe) | 415 |
-| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 250 |
-| [ai-terms-for-engineers](https://github.com/foyzulkarim/ai-terms-for-engineers) | 232 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 223 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 211 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 116 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 110 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 50 |
+| [codiesvibe](https://github.com/foyzulkarim/codiesvibe) | 416 |
+| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 276 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 219 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 209 |
+| [ai-terms-for-engineers](https://github.com/foyzulkarim/ai-terms-for-engineers) | 148 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 119 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 113 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 51 |
+| [bizbook-server](https://github.com/foyzulkarim/bizbook-server) | 47 |
 | [hikma-engine](https://github.com/foyzulkarim/hikma-engine) | 28 |
-| [bizbook-server](https://github.com/foyzulkarim/bizbook-server) | 23 |
 
 <!--TOP_REPOS_END-->
 
