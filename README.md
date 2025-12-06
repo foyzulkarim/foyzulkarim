@@ -14,6 +14,18 @@
 
 <sub>Last updated: <!--LAST_UPDATED-->2025-12-06 00:26 UTC<!--/LAST_UPDATED--></sub>
 
+---
+
+### 📈 View Detailed Metrics Dashboard
+
+Want to see growth trends and historical data? Check out my **interactive metrics dashboard** with beautiful charts tracking my GitHub activity over time!
+
+🔗 **[View Dashboard →](https://foyzulkarim.github.io/foyzulkarim/)**
+
+The dashboard automatically updates daily and shows trends for repositories, stars, forks, followers, watchers, and more.
+
+---
+
 ### Top 10 Repositories (by views, last 14 days)
 <!--TOP_REPOS_START-->
 | Repository | Views |
