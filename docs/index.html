@@ -237,7 +237,7 @@
 
         async function loadMetrics() {
             try {
-                const response = await fetch('../metrics-history.json');
+                const response = await fetch('metrics-history.json');
                 if (!response.ok) throw new Error('Failed to load metrics data');
 
                 const data = await response.json();

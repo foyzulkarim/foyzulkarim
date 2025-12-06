@@ -208,9 +208,12 @@ jobs:
           # Get today's date
           today = datetime.now().strftime("%Y-%m-%d")
 
+          # Metrics history file path (in docs/ for GitHub Pages)
+          metrics_file = 'docs/metrics-history.json'
+
           # Load existing metrics history
           try:
-              with open('metrics-history.json', 'r') as f:
+              with open(metrics_file, 'r') as f:
                   data = json.load(f)
           except FileNotFoundError:
               data = {"metrics": []}
@@ -237,10 +240,10 @@ jobs:
           data["metrics"] = [m for m in data["metrics"] if m["date"] >= cutoff_date]
 
           # Save updated metrics history
-          with open('metrics-history.json', 'w') as f:
+          with open(metrics_file, 'w') as f:
               json.dump(data, f, indent=2)
 
-          print(f"Updated metrics-history.json with {len(data['metrics'])} days of data")
+          print(f"Updated {metrics_file} with {len(data['metrics'])} days of data")
           PYTHON_EOF
         env:
           TOTAL_REPOS: ${{ env.TOTAL_REPOS }}
@@ -256,8 +259,8 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
           # Check if there are changes in README or metrics history
-          if ! git diff --quiet README.md metrics-history.json; then
-            git add README.md metrics-history.json
+          if ! git diff --quiet README.md docs/metrics-history.json; then
+            git add README.md docs/metrics-history.json
             git commit -m "chore: update GitHub metrics [skip ci]"
             git push
             echo "Metrics updated successfully!"
