@@ -198,16 +198,69 @@ jobs:
             !skip { print }
           ' README.md > README.tmp && mv README.tmp README.md
 
+      - name: Update metrics history (rolling 365 days)
+        run: |
+          python3 << 'PYTHON_EOF'
+          import json
+          import os
+          from datetime import datetime, timedelta
+
+          # Get today's date
+          today = datetime.now().strftime("%Y-%m-%d")
+
+          # Load existing metrics history
+          try:
+              with open('metrics-history.json', 'r') as f:
+                  data = json.load(f)
+          except FileNotFoundError:
+              data = {"metrics": []}
+
+          # Create today's metric entry
+          today_metric = {
+              "date": today,
+              "repositories": int(os.environ.get('TOTAL_REPOS', 0)),
+              "stars": int(os.environ.get('TOTAL_STARS', 0)),
+              "forks": int(os.environ.get('TOTAL_FORKS', 0)),
+              "watchers": int(os.environ.get('TOTAL_WATCHERS', 0)),
+              "followers": int(os.environ.get('TOTAL_FOLLOWERS', 0)),
+              "views_14d": int(os.environ.get('TOTAL_VIEWS', 0))
+          }
+
+          # Remove today's entry if it exists (to avoid duplicates)
+          data["metrics"] = [m for m in data["metrics"] if m["date"] != today]
+
+          # Add today's data
+          data["metrics"].append(today_metric)
+
+          # Keep only last 365 days
+          cutoff_date = (datetime.now() - timedelta(days=365)).strftime("%Y-%m-%d")
+          data["metrics"] = [m for m in data["metrics"] if m["date"] >= cutoff_date]
+
+          # Save updated metrics history
+          with open('metrics-history.json', 'w') as f:
+              json.dump(data, f, indent=2)
+
+          print(f"Updated metrics-history.json with {len(data['metrics'])} days of data")
+          PYTHON_EOF
+        env:
+          TOTAL_REPOS: ${{ env.TOTAL_REPOS }}
+          TOTAL_STARS: ${{ env.TOTAL_STARS }}
+          TOTAL_FORKS: ${{ env.TOTAL_FORKS }}
+          TOTAL_WATCHERS: ${{ env.TOTAL_WATCHERS }}
+          TOTAL_FOLLOWERS: ${{ env.TOTAL_FOLLOWERS }}
+          TOTAL_VIEWS: ${{ env.TOTAL_VIEWS }}
+
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          if ! git diff --quiet README.md; then
-            git add README.md
+          # Check if there are changes in README or metrics history
+          if ! git diff --quiet README.md metrics-history.json; then
+            git add README.md metrics-history.json
             git commit -m "chore: update GitHub metrics [skip ci]"
             git push
-            echo "README updated successfully!"
+            echo "Metrics updated successfully!"
           else
             echo "No changes to commit."
           fi

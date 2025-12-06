@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Metrics Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: #fff;
+            color: #333;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 10px;
+            font-size: 28px;
+        }
+
+        .subtitle {
+            text-align: center;
+            color: #666;
+            margin-bottom: 30px;
+            font-size: 14px;
+        }
+
+        .error-message {
+            background: #fee;
+            border: 1px solid #f99;
+            color: #c33;
+            padding: 15px;
+            border-radius: 4px;
+            margin-bottom: 20px;
+            display: none;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            font-size: 16px;
+            color: #666;
+        }
+
+        .charts-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+            gap: 30px;
+            margin-bottom: 40px;
+        }
+
+        .chart-container {
+            background: #f9f9f9;
+            border: 1px solid #eee;
+            border-radius: 8px;
+            padding: 20px;
+            position: relative;
+            height: 400px;
+        }
+
+        .chart-title {
+            font-weight: 600;
+            font-size: 16px;
+            margin-bottom: 15px;
+            color: #333;
+        }
+
+        canvas {
+            max-width: 100%;
+        }
+
+        .stats-summary {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 15px;
+            margin-bottom: 30px;
+        }
+
+        .stat-card {
+            background: #f0f4f8;
+            padding: 15px;
+            border-radius: 6px;
+            text-align: center;
+        }
+
+        .stat-label {
+            font-size: 12px;
+            color: #666;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 5px;
+        }
+
+        .stat-value {
+            font-size: 24px;
+            font-weight: bold;
+            color: #333;
+        }
+
+        .stat-change {
+            font-size: 12px;
+            color: #666;
+            margin-top: 5px;
+        }
+
+        .stat-change.positive {
+            color: #28a745;
+        }
+
+        .stat-change.negative {
+            color: #dc3545;
+        }
+
+        .footer {
+            text-align: center;
+            color: #999;
+            font-size: 12px;
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #eee;
+        }
+
+        @media (max-width: 768px) {
+            .charts-grid {
+                grid-template-columns: 1fr;
+            }
+
+            h1 {
+                font-size: 22px;
+            }
+
+            .chart-container {
+                height: 300px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📊 GitHub Metrics Dashboard</h1>
+        <p class="subtitle">Historical tracking of GitHub statistics for @foyzulkarim</p>
+
+        <div class="error-message" id="errorMessage"></div>
+        <div class="loading" id="loadingMessage">Loading metrics data...</div>
+
+        <div id="dashboard" style="display: none;">
+            <div class="stats-summary" id="statsSummary"></div>
+
+            <div class="charts-grid">
+                <div class="chart-container">
+                    <div class="chart-title">Repositories</div>
+                    <canvas id="reposChart"></canvas>
+                </div>
+
+                <div class="chart-container">
+                    <div class="chart-title">Stars</div>
+                    <canvas id="starsChart"></canvas>
+                </div>
+
+                <div class="chart-container">
+                    <div class="chart-title">Forks</div>
+                    <canvas id="forksChart"></canvas>
+                </div>
+
+                <div class="chart-container">
+                    <div class="chart-title">Followers</div>
+                    <canvas id="followersChart"></canvas>
+                </div>
+
+                <div class="chart-container">
+                    <div class="chart-title">Watchers</div>
+                    <canvas id="watchersChart"></canvas>
+                </div>
+
+                <div class="chart-container">
+                    <div class="chart-title">Views (14 days)</div>
+                    <canvas id="viewsChart"></canvas>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer" id="footer"></div>
+
+    <script>
+        const chartConfigs = {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+                legend: {
+                    display: false
+                }
+            },
+            scales: {
+                y: {
+                    beginAtZero: false,
+                    ticks: {
+                        color: '#666'
+                    },
+                    grid: {
+                        color: '#eee'
+                    }
+                },
+                x: {
+                    ticks: {
+                        color: '#666'
+                    },
+                    grid: {
+                        color: '#eee'
+                    }
+                }
+            }
+        };
+
+        const colors = {
+            repos: '#3b82f6',
+            stars: '#f59e0b',
+            forks: '#10b981',
+            followers: '#8b5cf6',
+            watchers: '#ec4899',
+            views: '#06b6d4'
+        };
+
+        let charts = {};
+
+        async function loadMetrics() {
+            try {
+                const response = await fetch('../metrics-history.json');
+                if (!response.ok) throw new Error('Failed to load metrics data');
+
+                const data = await response.json();
+                const metrics = data.metrics || [];
+
+                if (metrics.length === 0) {
+                    throw new Error('No metrics data available');
+                }
+
+                const dates = metrics.map(m => m.date);
+                const repos = metrics.map(m => m.repositories);
+                const stars = metrics.map(m => m.stars);
+                const forks = metrics.map(m => m.forks);
+                const followers = metrics.map(m => m.followers);
+                const watchers = metrics.map(m => m.watchers);
+                const views = metrics.map(m => m.views_14d);
+
+                renderCharts(dates, repos, stars, forks, followers, watchers, views);
+                renderStats(metrics);
+                document.getElementById('loadingMessage').style.display = 'none';
+                document.getElementById('dashboard').style.display = 'block';
+
+            } catch (error) {
+                console.error('Error loading metrics:', error);
+                document.getElementById('loadingMessage').style.display = 'none';
+                document.getElementById('errorMessage').style.display = 'block';
+                document.getElementById('errorMessage').innerHTML = `Error: ${error.message}`;
+            }
+        }
+
+        function renderCharts(dates, repos, stars, forks, followers, watchers, views) {
+            const chartData = {
+                repos: { canvas: 'reposChart', data: repos, color: colors.repos, label: 'Repositories' },
+                stars: { canvas: 'starsChart', data: stars, color: colors.stars, label: 'Stars' },
+                forks: { canvas: 'forksChart', data: forks, color: colors.forks, label: 'Forks' },
+                followers: { canvas: 'followersChart', data: followers, color: colors.followers, label: 'Followers' },
+                watchers: { canvas: 'watchersChart', data: watchers, color: colors.watchers, label: 'Watchers' },
+                views: { canvas: 'viewsChart', data: views, color: colors.views, label: 'Views' }
+            };
+
+            Object.entries(chartData).forEach(([key, config]) => {
+                const ctx = document.getElementById(config.canvas).getContext('2d');
+                charts[key] = new Chart(ctx, {
+                    type: 'line',
+                    data: {
+                        labels: dates,
+                        datasets: [{
+                            label: config.label,
+                            data: config.data,
+                            borderColor: config.color,
+                            backgroundColor: config.color + '15',
+                            borderWidth: 2,
+                            fill: true,
+                            tension: 0.4,
+                            pointRadius: 4,
+                            pointBackgroundColor: config.color,
+                            pointBorderColor: '#fff',
+                            pointBorderWidth: 2,
+                            pointHoverRadius: 6
+                        }]
+                    },
+                    options: chartConfigs
+                });
+            });
+        }
+
+        function renderStats(metrics) {
+            if (metrics.length < 2) {
+                document.getElementById('statsSummary').innerHTML = '<p style="grid-column: 1/-1; text-align: center; color: #999;">Not enough data to show changes yet.</p>';
+                return;
+            }
+
+            const latest = metrics[metrics.length - 1];
+            const previous = metrics[metrics.length - 2];
+
+            const stats = [
+                { label: 'Repositories', value: latest.repositories, key: 'repositories' },
+                { label: 'Stars', value: latest.stars, key: 'stars' },
+                { label: 'Forks', value: latest.forks, key: 'forks' },
+                { label: 'Followers', value: latest.followers, key: 'followers' },
+                { label: 'Watchers', value: latest.watchers, key: 'watchers' }
+            ];
+
+            let html = '';
+            stats.forEach(stat => {
+                const change = latest[stat.key] - previous[stat.key];
+                const changeClass = change >= 0 ? 'positive' : 'negative';
+                const changeText = change >= 0 ? `+${change}` : `${change}`;
+
+                html += `
+                    <div class="stat-card">
+                        <div class="stat-label">${stat.label}</div>
+                        <div class="stat-value">${stat.value.toLocaleString()}</div>
+                        <div class="stat-change ${changeClass}">${changeText} since yesterday</div>
+                    </div>
+                `;
+            });
+
+            document.getElementById('statsSummary').innerHTML = html;
+        }
+
+        function formatDate() {
+            const now = new Date();
+            return now.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit', timeZone: 'UTC' });
+        }
+
+        document.getElementById('footer').innerHTML = `Last updated: ${formatDate()} UTC`;
+
+        // Load metrics on page load
+        loadMetrics();
+    </script>
+</body>
+</html>
