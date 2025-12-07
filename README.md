@@ -9,10 +9,10 @@
 | Stars | <!--TOTAL_STARS-->1548<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->564<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1900<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1777<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1898<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1778<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2025-12-06 04:31 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2025-12-07 00:31 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [codiesvibe](https://github.com/foyzulkarim/codiesvibe) | 417 |
-| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 295 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 219 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 209 |
-| [ai-terms-for-engineers](https://github.com/foyzulkarim/ai-terms-for-engineers) | 145 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 119 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 113 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 57 |
+| [codiesvibe](https://github.com/foyzulkarim/codiesvibe) | 414 |
+| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 310 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 218 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 197 |
+| [ai-terms-for-engineers](https://github.com/foyzulkarim/ai-terms-for-engineers) | 137 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 118 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 112 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 60 |
 | [bizbook-server](https://github.com/foyzulkarim/bizbook-server) | 47 |
-| [hikma-engine](https://github.com/foyzulkarim/hikma-engine) | 28 |
+| [hikma-engine](https://github.com/foyzulkarim/hikma-engine) | 29 |
 
 <!--TOP_REPOS_END-->
 
