@@ -6,13 +6,13 @@
 | Metric | Count |
 |--------|-------|
 | Repositories | <!--TOTAL_REPOS-->122<!--/TOTAL_REPOS--> |
-| Stars | <!--TOTAL_STARS-->1548<!--/TOTAL_STARS--> |
+| Stars | <!--TOTAL_STARS-->1549<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->564<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1898<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1564<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1533<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2025-12-10 00:29 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2025-12-11 00:29 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,13 +30,13 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [codiesvibe](https://github.com/foyzulkarim/codiesvibe) | 433 |
-| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 284 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 181 |
-| [ai-terms-for-engineers](https://github.com/foyzulkarim/ai-terms-for-engineers) | 133 |
+| [codiesvibe](https://github.com/foyzulkarim/codiesvibe) | 417 |
+| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 274 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 158 |
+| [ai-terms-for-engineers](https://github.com/foyzulkarim/ai-terms-for-engineers) | 130 |
 | [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 124 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 110 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 90 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 123 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 100 |
 | [bizbook-server](https://github.com/foyzulkarim/bizbook-server) | 39 |
 | [ffmpeg-ui](https://github.com/foyzulkarim/ffmpeg-ui) | 29 |
 | [hikma-engine](https://github.com/foyzulkarim/hikma-engine) | 28 |
