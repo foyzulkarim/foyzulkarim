@@ -9,10 +9,10 @@
 | Stars | <!--TOTAL_STARS-->1549<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->564<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1898<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1533<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1899<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1585<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2025-12-11 00:29 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2025-12-12 00:28 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,15 +30,15 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [codiesvibe](https://github.com/foyzulkarim/codiesvibe) | 417 |
-| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 274 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 158 |
-| [ai-terms-for-engineers](https://github.com/foyzulkarim/ai-terms-for-engineers) | 130 |
+| [codiesvibe](https://github.com/foyzulkarim/codiesvibe) | 436 |
+| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 272 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 157 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 131 |
+| [ai-terms-for-engineers](https://github.com/foyzulkarim/ai-terms-for-engineers) | 128 |
 | [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 124 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 123 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 100 |
-| [bizbook-server](https://github.com/foyzulkarim/bizbook-server) | 39 |
-| [ffmpeg-ui](https://github.com/foyzulkarim/ffmpeg-ui) | 29 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 110 |
+| [bizbook-server](https://github.com/foyzulkarim/bizbook-server) | 40 |
+| [ScreenshotTaker](https://github.com/foyzulkarim/ScreenshotTaker) | 31 |
 | [hikma-engine](https://github.com/foyzulkarim/hikma-engine) | 28 |
 
 <!--TOP_REPOS_END-->
