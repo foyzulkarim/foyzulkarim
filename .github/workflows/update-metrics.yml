@@ -66,8 +66,15 @@ jobs:
           total_followers=0
           cursor="null"
           page=1
+          empty_pages=0
+          max_pages=50  # Safety limit - user has ~78 repos, should need 1 page max
 
           while true; do
+            # Safety check: prevent infinite loops
+            if [ "$page" -gt "$max_pages" ]; then
+              echo "Warning: Reached max page limit ($max_pages). Breaking to prevent infinite loop."
+              break
+            fi
             echo "Fetching page $page..."
 
             if [ "$cursor" = "null" ]; then
@@ -114,7 +121,27 @@ jobs:
 
             echo "  Page $page: +$page_stars stars, +$page_forks forks, +$page_watchers watchers"
 
-            [ "$has_next" = "false" ] && break
+            # Track consecutive empty pages to detect potential infinite loops
+            if [ "$page_stars" -eq 0 ] && [ "$page_forks" -eq 0 ] && [ "$page_watchers" -eq 0 ]; then
+              empty_pages=$((empty_pages + 1))
+              if [ "$empty_pages" -ge 3 ]; then
+                echo "Warning: $empty_pages consecutive empty pages. Breaking to prevent potential infinite loop."
+                break
+              fi
+            else
+              empty_pages=0
+            fi
+
+            # Break if no more pages or invalid response
+            if [ "$has_next" != "true" ]; then
+              break
+            fi
+
+            # Also break if cursor is empty or null (API returned invalid pagination)
+            if [ -z "$cursor" ] || [ "$cursor" = "null" ] || [ "$cursor" = "" ]; then
+              echo "Warning: Invalid cursor received. Breaking pagination."
+              break
+            fi
             page=$((page + 1))
             sleep 1  # Rate limit protection
           done
