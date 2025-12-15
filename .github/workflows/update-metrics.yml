@@ -75,7 +75,7 @@ jobs:
                 -f query="$QUERY" \
                 -f username="$USERNAME" \
                 --jq '.data.user' 2>/dev/null || echo "{}")
-              response=$(echo "$full_response" | jq '.repositories')
+              response=$(echo "$full_response" | jq '.repositories // {}')
               # Get followers only on first page
               total_followers=$(echo "$full_response" | jq '.followers.totalCount // 0')
             else
@@ -95,10 +95,18 @@ jobs:
               total_repos=$(echo "$response" | jq '.totalCount // 0')
             fi
 
-            # Sum metrics from this page
-            page_stars=$(echo "$response" | jq '[.nodes[].stargazerCount] | add // 0')
-            page_forks=$(echo "$response" | jq '[.nodes[].forkCount] | add // 0')
-            page_watchers=$(echo "$response" | jq '[.nodes[].watchers.totalCount] | add // 0')
+            # Sum metrics from this page with null/empty safety (using ? for optional iteration)
+            page_stars=$(echo "$response" | jq '[.nodes[]?.stargazerCount // 0] | add // 0')
+            page_forks=$(echo "$response" | jq '[.nodes[]?.forkCount // 0] | add // 0')
+            page_watchers=$(echo "$response" | jq '[.nodes[]?.watchers?.totalCount // 0] | add // 0')
+
+            # Ensure values are numeric (default to 0 if empty or null)
+            page_stars=${page_stars:-0}
+            page_forks=${page_forks:-0}
+            page_watchers=${page_watchers:-0}
+            [[ "$page_stars" =~ ^[0-9]+$ ]] || page_stars=0
+            [[ "$page_forks" =~ ^[0-9]+$ ]] || page_forks=0
+            [[ "$page_watchers" =~ ^[0-9]+$ ]] || page_watchers=0
 
             total_stars=$((total_stars + page_stars))
             total_forks=$((total_forks + page_forks))
@@ -127,6 +135,8 @@ jobs:
 
             for repo in $repos; do
               views=$(gh api "repos/$USERNAME/$repo/traffic/views" --jq '.count // 0' 2>/dev/null || echo "0")
+              # Ensure views is numeric
+              [[ "$views" =~ ^[0-9]+$ ]] || views=0
               total_views=$((total_views + views))
               if [ "$views" -gt 0 ]; then
                 echo "  $repo: $views views"
@@ -262,6 +272,8 @@ jobs:
           if ! git diff --quiet README.md docs/metrics-history.json; then
             git add README.md docs/metrics-history.json
             git commit -m "chore: update GitHub metrics [skip ci]"
+            # Pull with rebase to handle any concurrent updates, then push
+            git pull --rebase origin ${{ github.ref_name }} || true
             git push
             echo "Metrics updated successfully!"
           else
