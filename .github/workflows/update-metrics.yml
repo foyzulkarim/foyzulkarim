@@ -78,10 +78,14 @@ jobs:
             echo "Fetching page $page..."
 
             if [ "$cursor" = "null" ]; then
-              full_response=$(gh api graphql \
+              # Capture full API response for debugging
+              api_output=$(gh api graphql \
                 -f query="$QUERY" \
-                -f username="$USERNAME" \
-                --jq '.data.user' 2>/dev/null || echo "{}")
+                -f username="$USERNAME" 2>&1) || {
+                echo "ERROR: GraphQL API call failed"
+                echo "Response: $api_output"
+              }
+              full_response=$(echo "$api_output" | jq -r '.data.user // {}')
               response=$(echo "$full_response" | jq '.repositories // {}')
               # Get followers only on first page
               total_followers=$(echo "$full_response" | jq -r '.followers.totalCount // 0' | tr -d '\n')
@@ -104,6 +108,9 @@ jobs:
               total_repos=$(echo "$response" | jq -r '.totalCount // 0' | tr -d '\n')
               # Ensure total_repos is numeric
               [[ "$total_repos" =~ ^[0-9]+$ ]] || total_repos=0
+              # Debug: show what we got from API
+              echo "  DEBUG: totalCount=$total_repos, followers=$total_followers"
+              echo "  DEBUG: nodes count=$(echo "$response" | jq '.nodes | length // 0')"
             fi
 
             # Sum metrics from this page with null/empty safety (using ? for optional iteration)
