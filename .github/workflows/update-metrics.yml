@@ -84,7 +84,9 @@ jobs:
                 --jq '.data.user' 2>/dev/null || echo "{}")
               response=$(echo "$full_response" | jq '.repositories // {}')
               # Get followers only on first page
-              total_followers=$(echo "$full_response" | jq '.followers.totalCount // 0')
+              total_followers=$(echo "$full_response" | jq -r '.followers.totalCount // 0' | tr -d '\n')
+              # Ensure total_followers is numeric
+              [[ "$total_followers" =~ ^[0-9]+$ ]] || total_followers=0
             else
               response=$(gh api graphql \
                 -f query="$QUERY" \
@@ -99,7 +101,9 @@ jobs:
 
             # Set total_repos only once (same value on all pages)
             if [ "$page" -eq 1 ]; then
-              total_repos=$(echo "$response" | jq '.totalCount // 0')
+              total_repos=$(echo "$response" | jq -r '.totalCount // 0' | tr -d '\n')
+              # Ensure total_repos is numeric
+              [[ "$total_repos" =~ ^[0-9]+$ ]] || total_repos=0
             fi
 
             # Sum metrics from this page with null/empty safety (using ? for optional iteration)
@@ -202,6 +206,15 @@ jobs:
 
           echo ""
           echo "=== Final Metrics ==="
+
+          # Final sanitization - ensure all values are single-line integers
+          total_repos=$(echo "$total_repos" | tr -d '\n\r' | grep -oE '^[0-9]+$' || echo "0")
+          total_stars=$(echo "$total_stars" | tr -d '\n\r' | grep -oE '^[0-9]+$' || echo "0")
+          total_forks=$(echo "$total_forks" | tr -d '\n\r' | grep -oE '^[0-9]+$' || echo "0")
+          total_watchers=$(echo "$total_watchers" | tr -d '\n\r' | grep -oE '^[0-9]+$' || echo "0")
+          total_followers=$(echo "$total_followers" | tr -d '\n\r' | grep -oE '^[0-9]+$' || echo "0")
+          total_views=$(echo "$total_views" | tr -d '\n\r' | grep -oE '^[0-9]+$' || echo "0")
+
           echo "Repositories: $total_repos"
           echo "Stars: $total_stars"
           echo "Forks: $total_forks"
