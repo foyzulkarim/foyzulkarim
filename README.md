@@ -5,14 +5,14 @@
 
 | Metric | Count |
 |--------|-------|
-| Repositories | <!--TOTAL_REPOS-->122<!--/TOTAL_REPOS--> |
-| Stars | <!--TOTAL_STARS-->1549<!--/TOTAL_STARS--> |
-| Forks | <!--TOTAL_FORKS-->564<!--/TOTAL_FORKS--> |
+| Repositories | <!--TOTAL_REPOS-->123<!--/TOTAL_REPOS--> |
+| Stars | <!--TOTAL_STARS-->1548<!--/TOTAL_STARS--> |
+| Forks | <!--TOTAL_FORKS-->565<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1899<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1585<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1901<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1447<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2025-12-12 00:28 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2025-12-22 04:14 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [codiesvibe](https://github.com/foyzulkarim/codiesvibe) | 436 |
-| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 272 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 157 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 131 |
-| [ai-terms-for-engineers](https://github.com/foyzulkarim/ai-terms-for-engineers) | 128 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 124 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 110 |
-| [bizbook-server](https://github.com/foyzulkarim/bizbook-server) | 40 |
-| [ScreenshotTaker](https://github.com/foyzulkarim/ScreenshotTaker) | 31 |
-| [hikma-engine](https://github.com/foyzulkarim/hikma-engine) | 28 |
+| [codiesvibe](https://github.com/foyzulkarim/codiesvibe) | 201 |
+| [lms](https://github.com/foyzulkarim/lms) | 195 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 153 |
+| [qalam](https://github.com/foyzulkarim/qalam) | 145 |
+| [hikma](https://github.com/foyzulkarim/hikma) | 102 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 100 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 97 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 91 |
+| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 68 |
+| [hikma-engine](https://github.com/foyzulkarim/hikma-engine) | 33 |
 
 <!--TOP_REPOS_END-->
 
