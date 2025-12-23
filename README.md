@@ -9,10 +9,10 @@
 | Stars | <!--TOTAL_STARS-->1548<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->565<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1901<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1447<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1902<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1565<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2025-12-22 04:14 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2025-12-23 00:29 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [codiesvibe](https://github.com/foyzulkarim/codiesvibe) | 201 |
+| [qalam](https://github.com/foyzulkarim/qalam) | 222 |
 | [lms](https://github.com/foyzulkarim/lms) | 195 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 153 |
-| [qalam](https://github.com/foyzulkarim/qalam) | 145 |
+| [codiesvibe](https://github.com/foyzulkarim/codiesvibe) | 175 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 174 |
+| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 113 |
 | [hikma](https://github.com/foyzulkarim/hikma) | 102 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 100 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 97 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 91 |
-| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 68 |
-| [hikma-engine](https://github.com/foyzulkarim/hikma-engine) | 33 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 98 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 94 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 94 |
+| [hikma-engine](https://github.com/foyzulkarim/hikma-engine) | 34 |
 
 <!--TOP_REPOS_END-->
 
