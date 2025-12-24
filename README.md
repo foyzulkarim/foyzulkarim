@@ -9,10 +9,10 @@
 | Stars | <!--TOTAL_STARS-->1548<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->565<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1902<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1565<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1903<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1597<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2025-12-23 00:29 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2025-12-24 00:29 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [qalam](https://github.com/foyzulkarim/qalam) | 222 |
+| [qalam](https://github.com/foyzulkarim/qalam) | 253 |
 | [lms](https://github.com/foyzulkarim/lms) | 195 |
-| [codiesvibe](https://github.com/foyzulkarim/codiesvibe) | 175 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 174 |
-| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 113 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 163 |
+| [codiesvibe](https://github.com/foyzulkarim/codiesvibe) | 159 |
+| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 112 |
 | [hikma](https://github.com/foyzulkarim/hikma) | 102 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 98 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 94 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 94 |
-| [hikma-engine](https://github.com/foyzulkarim/hikma-engine) | 34 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 100 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 100 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 87 |
+| [ffmpeg-ui](https://github.com/foyzulkarim/ffmpeg-ui) | 43 |
 
 <!--TOP_REPOS_END-->
 
