@@ -10,9 +10,9 @@
 | Forks | <!--TOTAL_FORKS-->565<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1903<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1597<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1581<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2025-12-24 00:29 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2025-12-25 00:28 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,15 +30,15 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [qalam](https://github.com/foyzulkarim/qalam) | 253 |
+| [qalam](https://github.com/foyzulkarim/qalam) | 274 |
 | [lms](https://github.com/foyzulkarim/lms) | 195 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 163 |
-| [codiesvibe](https://github.com/foyzulkarim/codiesvibe) | 159 |
-| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 112 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 157 |
+| [codiesvibe](https://github.com/foyzulkarim/codiesvibe) | 155 |
+| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 107 |
 | [hikma](https://github.com/foyzulkarim/hikma) | 102 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 100 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 100 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 87 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 93 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 90 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 85 |
 | [ffmpeg-ui](https://github.com/foyzulkarim/ffmpeg-ui) | 43 |
 
 <!--TOP_REPOS_END-->
