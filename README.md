@@ -6,13 +6,13 @@
 | Metric | Count |
 |--------|-------|
 | Repositories | <!--TOTAL_REPOS-->123<!--/TOTAL_REPOS--> |
-| Stars | <!--TOTAL_STARS-->1548<!--/TOTAL_STARS--> |
-| Forks | <!--TOTAL_FORKS-->565<!--/TOTAL_FORKS--> |
+| Stars | <!--TOTAL_STARS-->1551<!--/TOTAL_STARS--> |
+| Forks | <!--TOTAL_FORKS-->567<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1903<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1581<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1739<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2025-12-25 00:28 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2025-12-26 00:29 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,15 +30,15 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [qalam](https://github.com/foyzulkarim/qalam) | 274 |
+| [qalam](https://github.com/foyzulkarim/qalam) | 499 |
 | [lms](https://github.com/foyzulkarim/lms) | 195 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 157 |
-| [codiesvibe](https://github.com/foyzulkarim/codiesvibe) | 155 |
-| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 107 |
-| [hikma](https://github.com/foyzulkarim/hikma) | 102 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 93 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 90 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 85 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 158 |
+| [codiesvibe](https://github.com/foyzulkarim/codiesvibe) | 127 |
+| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 111 |
+| [hikma](https://github.com/foyzulkarim/hikma) | 103 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 87 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 83 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 77 |
 | [ffmpeg-ui](https://github.com/foyzulkarim/ffmpeg-ui) | 43 |
 
 <!--TOP_REPOS_END-->
