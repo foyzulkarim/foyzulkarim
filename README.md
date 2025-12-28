@@ -6,13 +6,13 @@
 | Metric | Count |
 |--------|-------|
 | Repositories | <!--TOTAL_REPOS-->123<!--/TOTAL_REPOS--> |
-| Stars | <!--TOTAL_STARS-->1556<!--/TOTAL_STARS--> |
+| Stars | <!--TOTAL_STARS-->1560<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->567<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1903<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1862<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1890<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2025-12-27 00:28 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2025-12-28 00:33 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,14 +30,14 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [qalam](https://github.com/foyzulkarim/qalam) | 699 |
+| [qalam](https://github.com/foyzulkarim/qalam) | 770 |
 | [lms](https://github.com/foyzulkarim/lms) | 204 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 171 |
-| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 110 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 163 |
+| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 111 |
 | [hikma](https://github.com/foyzulkarim/hikma) | 103 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 81 |
 | [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 81 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 79 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 80 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 77 |
 | [ffmpeg-ui](https://github.com/foyzulkarim/ffmpeg-ui) | 45 |
 | [hikma-engine](https://github.com/foyzulkarim/hikma-engine) | 36 |
 
