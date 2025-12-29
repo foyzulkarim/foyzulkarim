@@ -9,10 +9,10 @@
 | Stars | <!--TOTAL_STARS-->1560<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->567<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1903<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1890<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1904<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1839<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2025-12-28 00:33 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2025-12-29 00:31 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,15 +30,15 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [qalam](https://github.com/foyzulkarim/qalam) | 770 |
+| [qalam](https://github.com/foyzulkarim/qalam) | 768 |
 | [lms](https://github.com/foyzulkarim/lms) | 204 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 163 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 167 |
 | [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 111 |
-| [hikma](https://github.com/foyzulkarim/hikma) | 103 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 81 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 80 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 77 |
-| [ffmpeg-ui](https://github.com/foyzulkarim/ffmpeg-ui) | 45 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 88 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 82 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 69 |
+| [hikma](https://github.com/foyzulkarim/hikma) | 63 |
+| [ffmpeg-ui](https://github.com/foyzulkarim/ffmpeg-ui) | 42 |
 | [hikma-engine](https://github.com/foyzulkarim/hikma-engine) | 36 |
 
 <!--TOP_REPOS_END-->
