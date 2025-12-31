@@ -10,9 +10,9 @@
 | Forks | <!--TOTAL_FORKS-->567<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1904<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1836<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1435<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2025-12-30 00:29 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2025-12-31 00:30 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [qalam](https://github.com/foyzulkarim/qalam) | 783 |
-| [lms](https://github.com/foyzulkarim/lms) | 204 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 166 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 94 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 93 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 88 |
-| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 88 |
-| [hikma](https://github.com/foyzulkarim/hikma) | 57 |
-| [hikma-engine](https://github.com/foyzulkarim/hikma-engine) | 43 |
+| [qalam](https://github.com/foyzulkarim/qalam) | 713 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 189 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 104 |
+| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 91 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 75 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 68 |
 | [ffmpeg-ui](https://github.com/foyzulkarim/ffmpeg-ui) | 42 |
+| [hikma-engine](https://github.com/foyzulkarim/hikma-engine) | 31 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 22 |
+| [ScreenshotTaker](https://github.com/foyzulkarim/ScreenshotTaker) | 17 |
 
 <!--TOP_REPOS_END-->
 
