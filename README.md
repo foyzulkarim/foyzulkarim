@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### Thanks for visiting my profile. I'm a senior software engineer based in Melbourne.
 
-## GitHub Stats
+## GitHub Stats (See your stats from here [github-profile-metrics](https://github.com/foyzulkarim/github-profile-metrics))
 
 | Metric | Count |
 |--------|-------|
