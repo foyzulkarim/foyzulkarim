@@ -6,13 +6,13 @@
 | Metric | Count |
 |--------|-------|
 | Repositories | <!--TOTAL_REPOS-->125<!--/TOTAL_REPOS--> |
-| Stars | <!--TOTAL_STARS-->1563<!--/TOTAL_STARS--> |
-| Forks | <!--TOTAL_FORKS-->567<!--/TOTAL_FORKS--> |
+| Stars | <!--TOTAL_STARS-->1564<!--/TOTAL_STARS--> |
+| Forks | <!--TOTAL_FORKS-->568<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1907<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1558<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1906<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1604<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-01-02 00:29 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-01-03 00:28 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [qalam](https://github.com/foyzulkarim/qalam) | 796 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 203 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 101 |
+| [qalam](https://github.com/foyzulkarim/qalam) | 848 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 199 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 96 |
 | [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 88 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 75 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 67 |
-| [github-profile-metrics](https://github.com/foyzulkarim/github-profile-metrics) | 43 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 84 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 57 |
+| [github-profile-metrics](https://github.com/foyzulkarim/github-profile-metrics) | 46 |
+| [ffmpeg-ui](https://github.com/foyzulkarim/ffmpeg-ui) | 32 |
 | [hikma-engine](https://github.com/foyzulkarim/hikma-engine) | 31 |
-| [ffmpeg-ui](https://github.com/foyzulkarim/ffmpeg-ui) | 31 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 23 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 19 |
 
 <!--TOP_REPOS_END-->
 
