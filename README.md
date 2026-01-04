@@ -6,13 +6,13 @@
 | Metric | Count |
 |--------|-------|
 | Repositories | <!--TOTAL_REPOS-->125<!--/TOTAL_REPOS--> |
-| Stars | <!--TOTAL_STARS-->1564<!--/TOTAL_STARS--> |
+| Stars | <!--TOTAL_STARS-->1565<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->568<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1906<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1604<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1905<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1714<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-01-03 00:28 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-01-04 00:33 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [qalam](https://github.com/foyzulkarim/qalam) | 848 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 199 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 96 |
-| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 88 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 84 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 57 |
-| [github-profile-metrics](https://github.com/foyzulkarim/github-profile-metrics) | 46 |
-| [ffmpeg-ui](https://github.com/foyzulkarim/ffmpeg-ui) | 32 |
-| [hikma-engine](https://github.com/foyzulkarim/hikma-engine) | 31 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 19 |
+| [qalam](https://github.com/foyzulkarim/qalam) | 952 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 212 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 91 |
+| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 89 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 83 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 54 |
+| [github-profile-metrics](https://github.com/foyzulkarim/github-profile-metrics) | 47 |
+| [ffmpeg-ui](https://github.com/foyzulkarim/ffmpeg-ui) | 35 |
+| [hikma-engine](https://github.com/foyzulkarim/hikma-engine) | 29 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 27 |
 
 <!--TOP_REPOS_END-->
 
