@@ -7,12 +7,12 @@
 |--------|-------|
 | Repositories | <!--TOTAL_REPOS-->125<!--/TOTAL_REPOS--> |
 | Stars | <!--TOTAL_STARS-->1565<!--/TOTAL_STARS--> |
-| Forks | <!--TOTAL_FORKS-->568<!--/TOTAL_FORKS--> |
+| Forks | <!--TOTAL_FORKS-->569<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1905<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1766<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1824<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-01-05 00:32 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-01-06 00:29 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [qalam](https://github.com/foyzulkarim/qalam) | 1012 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 184 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 98 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 98 |
+| [qalam](https://github.com/foyzulkarim/qalam) | 1074 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 171 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 114 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 104 |
 | [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 90 |
 | [github-profile-metrics](https://github.com/foyzulkarim/github-profile-metrics) | 49 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 43 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 42 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 36 |
 | [ffmpeg-ui](https://github.com/foyzulkarim/ffmpeg-ui) | 32 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 30 |
-| [hikma-engine](https://github.com/foyzulkarim/hikma-engine) | 29 |
+| [codiesvibe](https://github.com/foyzulkarim/codiesvibe) | 17 |
 
 <!--TOP_REPOS_END-->
 
