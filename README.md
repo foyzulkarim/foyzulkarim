@@ -9,10 +9,10 @@
 | Stars | <!--TOTAL_STARS-->1566<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->569<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1905<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1709<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1904<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1679<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-01-07 00:28 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-01-08 00:30 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [qalam](https://github.com/foyzulkarim/qalam) | 1016 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 146 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 121 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 103 |
-| [github-profile-metrics](https://github.com/foyzulkarim/github-profile-metrics) | 53 |
+| [qalam](https://github.com/foyzulkarim/qalam) | 991 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 148 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 116 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 107 |
+| [github-profile-metrics](https://github.com/foyzulkarim/github-profile-metrics) | 56 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 53 |
 | [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 50 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 49 |
-| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 45 |
-| [ffmpeg-ui](https://github.com/foyzulkarim/ffmpeg-ui) | 31 |
+| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 49 |
 | [codiesvibe](https://github.com/foyzulkarim/codiesvibe) | 17 |
+| [vidsense](https://github.com/foyzulkarim/vidsense) | 13 |
 
 <!--TOP_REPOS_END-->
 
