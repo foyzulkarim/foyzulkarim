@@ -6,13 +6,13 @@
 | Metric | Count |
 |--------|-------|
 | Repositories | <!--TOTAL_REPOS-->126<!--/TOTAL_REPOS--> |
-| Stars | <!--TOTAL_STARS-->1567<!--/TOTAL_STARS--> |
+| Stars | <!--TOTAL_STARS-->1565<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->569<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1905<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1721<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1580<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-01-09 00:29 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-01-10 00:29 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [qalam](https://github.com/foyzulkarim/qalam) | 995 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 153 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 116 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 104 |
+| [qalam](https://github.com/foyzulkarim/qalam) | 781 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 176 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 123 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 115 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 77 |
 | [github-profile-metrics](https://github.com/foyzulkarim/github-profile-metrics) | 57 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 52 |
-| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 52 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 46 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 53 |
+| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 49 |
 | [codiesvibe](https://github.com/foyzulkarim/codiesvibe) | 20 |
-| [hikma-engine](https://github.com/foyzulkarim/hikma-engine) | 15 |
+| [hikma-engine](https://github.com/foyzulkarim/hikma-engine) | 16 |
 
 <!--TOP_REPOS_END-->
 
