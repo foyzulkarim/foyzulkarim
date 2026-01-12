@@ -9,10 +9,10 @@
 | Stars | <!--TOTAL_STARS-->1566<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->569<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1905<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1386<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1906<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1345<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-01-11 00:32 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-01-12 00:31 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [qalam](https://github.com/foyzulkarim/qalam) | 592 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 163 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 120 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 113 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 81 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 62 |
+| [qalam](https://github.com/foyzulkarim/qalam) | 521 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 172 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 122 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 121 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 83 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 64 |
 | [github-profile-metrics](https://github.com/foyzulkarim/github-profile-metrics) | 57 |
-| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 50 |
+| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 49 |
 | [codiesvibe](https://github.com/foyzulkarim/codiesvibe) | 20 |
-| [hikma-engine](https://github.com/foyzulkarim/hikma-engine) | 17 |
+| [hikma-engine](https://github.com/foyzulkarim/hikma-engine) | 18 |
 
 <!--TOP_REPOS_END-->
 
