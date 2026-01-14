@@ -10,9 +10,9 @@
 | Forks | <!--TOTAL_FORKS-->569<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1906<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1328<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1331<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-01-13 00:26 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-01-14 00:30 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [qalam](https://github.com/foyzulkarim/qalam) | 487 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 179 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 137 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 112 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 85 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 65 |
+| [qalam](https://github.com/foyzulkarim/qalam) | 480 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 184 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 140 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 106 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 105 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 64 |
 | [github-profile-metrics](https://github.com/foyzulkarim/github-profile-metrics) | 58 |
-| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 49 |
+| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 46 |
 | [codiesvibe](https://github.com/foyzulkarim/codiesvibe) | 19 |
-| [hikma-engine](https://github.com/foyzulkarim/hikma-engine) | 18 |
+| [vidsense](https://github.com/foyzulkarim/vidsense) | 14 |
 
 <!--TOP_REPOS_END-->
 
