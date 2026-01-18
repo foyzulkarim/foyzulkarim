@@ -10,9 +10,9 @@
 | Forks | <!--TOTAL_FORKS-->569<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1906<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1181<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1147<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-01-17 00:28 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-01-18 00:32 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [qalam](https://github.com/foyzulkarim/qalam) | 346 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 187 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 154 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 131 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 95 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 63 |
-| [codiesvibe](https://github.com/foyzulkarim/codiesvibe) | 22 |
-| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 20 |
-| [ffmpeg-ui](https://github.com/foyzulkarim/ffmpeg-ui) | 18 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 254 |
+| [qalam](https://github.com/foyzulkarim/qalam) | 243 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 191 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 129 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 82 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 55 |
+| [codiesvibe](https://github.com/foyzulkarim/codiesvibe) | 18 |
+| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 17 |
 | [ScreenshotTaker](https://github.com/foyzulkarim/ScreenshotTaker) | 16 |
+| [vidsense](https://github.com/foyzulkarim/vidsense) | 14 |
 
 <!--TOP_REPOS_END-->
 
