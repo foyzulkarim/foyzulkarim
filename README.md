@@ -10,9 +10,9 @@
 | Forks | <!--TOTAL_FORKS-->569<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1906<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1057<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->992<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-01-19 00:32 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-01-20 00:29 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,14 +30,14 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 249 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 202 |
-| [qalam](https://github.com/foyzulkarim/qalam) | 185 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 127 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 63 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 53 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 238 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 211 |
+| [qalam](https://github.com/foyzulkarim/qalam) | 125 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 120 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 64 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 47 |
+| [bizbook-server-dotnet-core](https://github.com/foyzulkarim/bizbook-server-dotnet-core) | 22 |
 | [ScreenshotTaker](https://github.com/foyzulkarim/ScreenshotTaker) | 17 |
-| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 16 |
 | [codiesvibe](https://github.com/foyzulkarim/codiesvibe) | 16 |
 | [vidsense](https://github.com/foyzulkarim/vidsense) | 14 |
 
