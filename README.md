@@ -10,9 +10,9 @@
 | Forks | <!--TOTAL_FORKS-->569<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1906<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->994<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->977<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-01-21 00:30 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-01-22 00:31 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 235 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 235 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 122 |
-| [qalam](https://github.com/foyzulkarim/qalam) | 107 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 65 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 34 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 246 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 239 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 126 |
+| [qalam](https://github.com/foyzulkarim/qalam) | 103 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 68 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 22 |
 | [bizbook-server-dotnet-core](https://github.com/foyzulkarim/bizbook-server-dotnet-core) | 22 |
 | [codiesvibe](https://github.com/foyzulkarim/codiesvibe) | 18 |
 | [ScreenshotTaker](https://github.com/foyzulkarim/ScreenshotTaker) | 18 |
-| [vidsense](https://github.com/foyzulkarim/vidsense) | 14 |
+| [commitstreams-client](https://github.com/foyzulkarim/commitstreams-client) | 15 |
 
 <!--TOP_REPOS_END-->
 
