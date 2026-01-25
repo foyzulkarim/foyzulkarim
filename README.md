@@ -9,10 +9,10 @@
 | Stars | <!--TOTAL_STARS-->1567<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->569<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1904<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->867<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1905<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->878<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-01-24 00:29 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-01-25 00:33 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -31,14 +31,14 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 | Repository | Views |
 |------------|-------|
 | [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 236 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 219 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 112 |
-| [qalam](https://github.com/foyzulkarim/qalam) | 71 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 59 |
-| [ScreenshotTaker](https://github.com/foyzulkarim/ScreenshotTaker) | 27 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 23 |
-| [bizbook-server-dotnet-core](https://github.com/foyzulkarim/bizbook-server-dotnet-core) | 21 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 16 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 231 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 113 |
+| [qalam](https://github.com/foyzulkarim/qalam) | 68 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 58 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 28 |
+| [ScreenshotTaker](https://github.com/foyzulkarim/ScreenshotTaker) | 26 |
+| [bizbook-server-dotnet-core](https://github.com/foyzulkarim/bizbook-server-dotnet-core) | 22 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 18 |
 | [codiesvibe](https://github.com/foyzulkarim/codiesvibe) | 15 |
 
 <!--TOP_REPOS_END-->
