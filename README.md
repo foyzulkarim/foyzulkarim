@@ -7,12 +7,12 @@
 |--------|-------|
 | Repositories | <!--TOTAL_REPOS-->126<!--/TOTAL_REPOS--> |
 | Stars | <!--TOTAL_STARS-->1568<!--/TOTAL_STARS--> |
-| Forks | <!--TOTAL_FORKS-->568<!--/TOTAL_FORKS--> |
+| Forks | <!--TOTAL_FORKS-->567<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1905<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->947<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->837<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-01-31 00:33 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-02-01 00:41 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 186 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 180 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 128 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 80 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 184 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 118 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 82 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 77 |
 | [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 54 |
 | [lms](https://github.com/foyzulkarim/lms) | 54 |
-| [qalam](https://github.com/foyzulkarim/qalam) | 42 |
+| [qalam](https://github.com/foyzulkarim/qalam) | 46 |
 | [hikma-engine](https://github.com/foyzulkarim/hikma-engine) | 33 |
 | [codiesvibe](https://github.com/foyzulkarim/codiesvibe) | 25 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 20 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 21 |
 
 <!--TOP_REPOS_END-->
 
