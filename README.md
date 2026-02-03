@@ -6,13 +6,13 @@
 | Metric | Count |
 |--------|-------|
 | Repositories | <!--TOTAL_REPOS-->126<!--/TOTAL_REPOS--> |
-| Stars | <!--TOTAL_STARS-->1569<!--/TOTAL_STARS--> |
+| Stars | <!--TOTAL_STARS-->1570<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->567<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1906<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->818<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->787<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-02-02 00:36 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-02-03 00:37 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 169 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 163 |
 | [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 116 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 80 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 79 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 75 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 74 |
 | [lms](https://github.com/foyzulkarim/lms) | 54 |
 | [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 53 |
-| [qalam](https://github.com/foyzulkarim/qalam) | 44 |
+| [qalam](https://github.com/foyzulkarim/qalam) | 40 |
 | [hikma-engine](https://github.com/foyzulkarim/hikma-engine) | 33 |
 | [codiesvibe](https://github.com/foyzulkarim/codiesvibe) | 25 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 22 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 23 |
 
 <!--TOP_REPOS_END-->
 
