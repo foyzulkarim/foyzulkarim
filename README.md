@@ -10,9 +10,9 @@
 | Forks | <!--TOTAL_FORKS-->567<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1905<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->740<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->770<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-02-05 00:36 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-02-06 00:34 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 124 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 111 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 74 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 66 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 129 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 115 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 82 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 71 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 65 |
 | [lms](https://github.com/foyzulkarim/lms) | 54 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 51 |
-| [qalam](https://github.com/foyzulkarim/qalam) | 38 |
+| [qalam](https://github.com/foyzulkarim/qalam) | 39 |
 | [hikma-engine](https://github.com/foyzulkarim/hikma-engine) | 29 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 22 |
 | [codiesvibe](https://github.com/foyzulkarim/codiesvibe) | 21 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 18 |
 
 <!--TOP_REPOS_END-->
 
