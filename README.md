@@ -9,10 +9,10 @@
 | Stars | <!--TOTAL_STARS-->1570<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->567<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1905<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->770<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1906<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->816<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-02-06 00:34 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-02-07 00:34 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 129 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 115 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 82 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 71 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 65 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 150 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 137 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 85 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 73 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 64 |
 | [lms](https://github.com/foyzulkarim/lms) | 54 |
-| [qalam](https://github.com/foyzulkarim/qalam) | 39 |
+| [qalam](https://github.com/foyzulkarim/qalam) | 38 |
 | [hikma-engine](https://github.com/foyzulkarim/hikma-engine) | 29 |
-| [codiesvibe](https://github.com/foyzulkarim/codiesvibe) | 21 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 18 |
+| [codiesvibe](https://github.com/foyzulkarim/codiesvibe) | 22 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 20 |
 
 <!--TOP_REPOS_END-->
 
