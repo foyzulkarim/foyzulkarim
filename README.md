@@ -6,13 +6,13 @@
 | Metric | Count |
 |--------|-------|
 | Repositories | <!--TOTAL_REPOS-->126<!--/TOTAL_REPOS--> |
-| Stars | <!--TOTAL_STARS-->1570<!--/TOTAL_STARS--> |
+| Stars | <!--TOTAL_STARS-->1569<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->567<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1906<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->816<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->804<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-02-07 00:34 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-02-08 00:45 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,13 +30,13 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 150 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 137 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 85 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 73 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 64 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 148 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 137 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 95 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 75 |
 | [lms](https://github.com/foyzulkarim/lms) | 54 |
-| [qalam](https://github.com/foyzulkarim/qalam) | 38 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 52 |
+| [qalam](https://github.com/foyzulkarim/qalam) | 34 |
 | [hikma-engine](https://github.com/foyzulkarim/hikma-engine) | 29 |
 | [codiesvibe](https://github.com/foyzulkarim/codiesvibe) | 22 |
 | [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 20 |
