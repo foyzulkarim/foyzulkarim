@@ -5,14 +5,14 @@
 
 | Metric | Count |
 |--------|-------|
-| Repositories | <!--TOTAL_REPOS-->126<!--/TOTAL_REPOS--> |
-| Stars | <!--TOTAL_STARS-->1569<!--/TOTAL_STARS--> |
+| Repositories | <!--TOTAL_REPOS-->128<!--/TOTAL_REPOS--> |
+| Stars | <!--TOTAL_STARS-->1571<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->567<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1906<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->804<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1908<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->788<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-02-08 00:45 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-02-09 00:38 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 148 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 137 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 151 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 143 |
 | [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 95 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 75 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 71 |
 | [lms](https://github.com/foyzulkarim/lms) | 54 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 52 |
-| [qalam](https://github.com/foyzulkarim/qalam) | 34 |
-| [hikma-engine](https://github.com/foyzulkarim/hikma-engine) | 29 |
-| [codiesvibe](https://github.com/foyzulkarim/codiesvibe) | 22 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 20 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 50 |
+| [qalam](https://github.com/foyzulkarim/qalam) | 32 |
+| [hikma-engine](https://github.com/foyzulkarim/hikma-engine) | 30 |
+| [codiesvibe](https://github.com/foyzulkarim/codiesvibe) | 20 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 19 |
 
 <!--TOP_REPOS_END-->
 
