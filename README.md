@@ -10,9 +10,9 @@
 | Forks | <!--TOTAL_FORKS-->567<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1908<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->838<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->795<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-02-10 00:42 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-02-11 00:41 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 164 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 151 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 112 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 75 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 54 |
-| [lms](https://github.com/foyzulkarim/lms) | 54 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 169 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 147 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 146 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 74 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 55 |
 | [v8quiz](https://github.com/foyzulkarim/v8quiz) | 31 |
-| [qalam](https://github.com/foyzulkarim/qalam) | 26 |
 | [hikma-engine](https://github.com/foyzulkarim/hikma-engine) | 26 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 18 |
+| [qalam](https://github.com/foyzulkarim/qalam) | 25 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 17 |
+| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 15 |
 
 <!--TOP_REPOS_END-->
 
