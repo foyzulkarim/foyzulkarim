@@ -6,13 +6,13 @@
 | Metric | Count |
 |--------|-------|
 | Repositories | <!--TOTAL_REPOS-->128<!--/TOTAL_REPOS--> |
-| Stars | <!--TOTAL_STARS-->1571<!--/TOTAL_STARS--> |
+| Stars | <!--TOTAL_STARS-->1572<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->567<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1908<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->674<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->628<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-02-13 00:38 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-02-14 00:36 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 147 |
 | [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 137 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 118 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 73 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 120 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 115 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 65 |
 | [v8quiz](https://github.com/foyzulkarim/v8quiz) | 34 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 27 |
-| [qalam](https://github.com/foyzulkarim/qalam) | 22 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 26 |
+| [qalam](https://github.com/foyzulkarim/qalam) | 21 |
 | [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 20 |
 | [botsapp](https://github.com/foyzulkarim/botsapp) | 14 |
-| [bizbook-client](https://github.com/foyzulkarim/bizbook-client) | 11 |
+| [bizbook-client](https://github.com/foyzulkarim/bizbook-client) | 13 |
 
 <!--TOP_REPOS_END-->
 
