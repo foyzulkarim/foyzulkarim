@@ -6,13 +6,13 @@
 | Metric | Count |
 |--------|-------|
 | Repositories | <!--TOTAL_REPOS-->128<!--/TOTAL_REPOS--> |
-| Stars | <!--TOTAL_STARS-->1572<!--/TOTAL_STARS--> |
-| Forks | <!--TOTAL_FORKS-->567<!--/TOTAL_FORKS--> |
+| Stars | <!--TOTAL_STARS-->1571<!--/TOTAL_STARS--> |
+| Forks | <!--TOTAL_FORKS-->568<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1908<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->631<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1907<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->660<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-02-15 00:38 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-02-16 00:37 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -31,14 +31,14 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 | Repository | Views |
 |------------|-------|
 | [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 135 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 115 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 115 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 65 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 128 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 120 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 68 |
 | [v8quiz](https://github.com/foyzulkarim/v8quiz) | 34 |
-| [qalam](https://github.com/foyzulkarim/qalam) | 28 |
 | [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 26 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 19 |
-| [bizbook-client](https://github.com/foyzulkarim/bizbook-client) | 15 |
+| [qalam](https://github.com/foyzulkarim/qalam) | 26 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 18 |
+| [bizbook-client](https://github.com/foyzulkarim/bizbook-client) | 16 |
 | [botsapp](https://github.com/foyzulkarim/botsapp) | 14 |
 
 <!--TOP_REPOS_END-->
