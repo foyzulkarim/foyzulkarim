@@ -6,13 +6,13 @@
 | Metric | Count |
 |--------|-------|
 | Repositories | <!--TOTAL_REPOS-->128<!--/TOTAL_REPOS--> |
-| Stars | <!--TOTAL_STARS-->1571<!--/TOTAL_STARS--> |
+| Stars | <!--TOTAL_STARS-->1570<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->568<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1907<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->691<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->686<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-02-17 00:36 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-02-18 00:37 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 145 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 137 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 119 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 146 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 135 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 115 |
 | [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 68 |
-| [qalam](https://github.com/foyzulkarim/qalam) | 35 |
+| [qalam](https://github.com/foyzulkarim/qalam) | 39 |
 | [v8quiz](https://github.com/foyzulkarim/v8quiz) | 34 |
 | [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 26 |
 | [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 20 |
-| [bizbook-client](https://github.com/foyzulkarim/bizbook-client) | 15 |
 | [botsapp](https://github.com/foyzulkarim/botsapp) | 14 |
+| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 12 |
 
 <!--TOP_REPOS_END-->
 
