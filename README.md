@@ -10,9 +10,9 @@
 | Forks | <!--TOTAL_FORKS-->569<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1907<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->631<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->593<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-02-20 00:34 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-02-21 00:34 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 146 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 116 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 106 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 61 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 119 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 114 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 78 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 59 |
 | [qalam](https://github.com/foyzulkarim/qalam) | 36 |
 | [v8quiz](https://github.com/foyzulkarim/v8quiz) | 34 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 21 |
+| [hikma-pr](https://github.com/foyzulkarim/hikma-pr) | 22 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 20 |
 | [commitstreams-server](https://github.com/foyzulkarim/commitstreams-server) | 14 |
 | [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 13 |
-| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 10 |
 
 <!--TOP_REPOS_END-->
 
