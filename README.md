@@ -5,14 +5,14 @@
 
 | Metric | Count |
 |--------|-------|
-| Repositories | <!--TOTAL_REPOS-->128<!--/TOTAL_REPOS--> |
-| Stars | <!--TOTAL_STARS-->1570<!--/TOTAL_STARS--> |
+| Repositories | <!--TOTAL_REPOS-->129<!--/TOTAL_REPOS--> |
+| Stars | <!--TOTAL_STARS-->1573<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->569<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1907<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->593<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1910<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->577<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-02-21 00:34 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-02-22 00:37 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 119 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 114 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 78 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 116 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 105 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 73 |
 | [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 59 |
-| [qalam](https://github.com/foyzulkarim/qalam) | 36 |
+| [qalam](https://github.com/foyzulkarim/qalam) | 35 |
 | [v8quiz](https://github.com/foyzulkarim/v8quiz) | 34 |
 | [hikma-pr](https://github.com/foyzulkarim/hikma-pr) | 22 |
 | [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 20 |
 | [commitstreams-server](https://github.com/foyzulkarim/commitstreams-server) | 14 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 13 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 12 |
 
 <!--TOP_REPOS_END-->
 
