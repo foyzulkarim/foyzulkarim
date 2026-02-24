@@ -10,9 +10,9 @@
 | Forks | <!--TOTAL_FORKS-->569<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1910<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->657<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->645<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-02-23 00:37 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-02-24 00:35 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 115 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 106 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 74 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 65 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 63 |
-| [v8quiz](https://github.com/foyzulkarim/v8quiz) | 34 |
-| [qalam](https://github.com/foyzulkarim/qalam) | 34 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 24 |
-| [hikma-pr](https://github.com/foyzulkarim/hikma-pr) | 23 |
-| [commitstreams-server](https://github.com/foyzulkarim/commitstreams-server) | 15 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 137 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 94 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 88 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 54 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 53 |
+| [qalam](https://github.com/foyzulkarim/qalam) | 38 |
+| [commitstreams-server](https://github.com/foyzulkarim/commitstreams-server) | 25 |
+| [hikma-pr](https://github.com/foyzulkarim/hikma-pr) | 24 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 23 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 16 |
 
 <!--TOP_REPOS_END-->
 
