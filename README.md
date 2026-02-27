@@ -10,9 +10,9 @@
 | Forks | <!--TOTAL_FORKS-->568<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1911<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->768<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->790<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-02-26 00:34 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-02-27 00:36 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,15 +30,15 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 164 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 156 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 120 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 56 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 52 |
-| [qalam](https://github.com/foyzulkarim/qalam) | 41 |
-| [commitstreams-server](https://github.com/foyzulkarim/commitstreams-server) | 25 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 24 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 176 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 148 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 132 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 54 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 47 |
+| [qalam](https://github.com/foyzulkarim/qalam) | 42 |
+| [commitstreams-server](https://github.com/foyzulkarim/commitstreams-server) | 33 |
 | [hikma-pr](https://github.com/foyzulkarim/hikma-pr) | 24 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 22 |
 | [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 19 |
 
 <!--TOP_REPOS_END-->
