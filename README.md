@@ -9,10 +9,10 @@
 | Stars | <!--TOTAL_STARS-->1574<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->568<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1911<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->790<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1913<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->829<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-02-27 00:36 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-02-28 00:31 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 176 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 148 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 132 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 54 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 47 |
-| [qalam](https://github.com/foyzulkarim/qalam) | 42 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 174 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 170 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 135 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 55 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 55 |
+| [qalam](https://github.com/foyzulkarim/qalam) | 43 |
 | [commitstreams-server](https://github.com/foyzulkarim/commitstreams-server) | 33 |
 | [hikma-pr](https://github.com/foyzulkarim/hikma-pr) | 24 |
 | [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 22 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 19 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 22 |
 
 <!--TOP_REPOS_END-->
 
