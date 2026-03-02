@@ -5,14 +5,14 @@
 
 | Metric | Count |
 |--------|-------|
-| Repositories | <!--TOTAL_REPOS-->129<!--/TOTAL_REPOS--> |
+| Repositories | <!--TOTAL_REPOS-->130<!--/TOTAL_REPOS--> |
 | Stars | <!--TOTAL_STARS-->1574<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->568<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1913<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->844<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->841<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-03-01 00:40 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-03-02 00:35 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -32,14 +32,14 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 |------------|-------|
 | [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 189 |
 | [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 180 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 138 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 130 |
 | [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 58 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 50 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 46 |
 | [commitstreams-server](https://github.com/foyzulkarim/commitstreams-server) | 33 |
-| [qalam](https://github.com/foyzulkarim/qalam) | 29 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 25 |
-| [hikma-pr](https://github.com/foyzulkarim/hikma-pr) | 24 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 23 |
+| [qalam](https://github.com/foyzulkarim/qalam) | 28 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 27 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 25 |
+| [hikma-pr](https://github.com/foyzulkarim/hikma-pr) | 20 |
 
 <!--TOP_REPOS_END-->
 
