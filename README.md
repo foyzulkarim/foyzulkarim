@@ -5,14 +5,14 @@
 
 | Metric | Count |
 |--------|-------|
-| Repositories | <!--TOTAL_REPOS-->130<!--/TOTAL_REPOS--> |
+| Repositories | <!--TOTAL_REPOS-->131<!--/TOTAL_REPOS--> |
 | Stars | <!--TOTAL_STARS-->1574<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->568<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1913<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->841<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1912<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->842<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-03-02 00:35 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-03-03 00:36 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 189 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 180 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 130 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 58 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 46 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 192 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 185 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 114 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 63 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 51 |
 | [commitstreams-server](https://github.com/foyzulkarim/commitstreams-server) | 33 |
-| [qalam](https://github.com/foyzulkarim/qalam) | 28 |
 | [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 27 |
 | [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 25 |
 | [hikma-pr](https://github.com/foyzulkarim/hikma-pr) | 20 |
+| [ScreenshotTaker](https://github.com/foyzulkarim/ScreenshotTaker) | 19 |
 
 <!--TOP_REPOS_END-->
 
