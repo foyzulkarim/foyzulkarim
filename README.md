@@ -10,9 +10,9 @@
 | Forks | <!--TOTAL_FORKS-->568<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1912<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->904<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->914<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-03-04 00:35 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-03-05 00:35 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 206 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 190 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 117 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 60 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 55 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 213 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 195 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 118 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 53 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 49 |
 | [commitstreams-server](https://github.com/foyzulkarim/commitstreams-server) | 33 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 30 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 26 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 32 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 25 |
 | [hikma-pr](https://github.com/foyzulkarim/hikma-pr) | 21 |
-| [ScreenshotTaker](https://github.com/foyzulkarim/ScreenshotTaker) | 19 |
+| [bizbook-server](https://github.com/foyzulkarim/bizbook-server) | 18 |
 
 <!--TOP_REPOS_END-->
 
