@@ -10,9 +10,9 @@
 | Forks | <!--TOTAL_FORKS-->568<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1913<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->926<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->837<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-03-08 00:36 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-03-09 00:36 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 225 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 205 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 130 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 62 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 41 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 30 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 24 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 200 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 160 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 121 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 57 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 43 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 28 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 23 |
 | [bizbook-server](https://github.com/foyzulkarim/bizbook-server) | 20 |
-| [commitstreams-server](https://github.com/foyzulkarim/commitstreams-server) | 19 |
-| [ScreenshotTaker](https://github.com/foyzulkarim/ScreenshotTaker) | 18 |
+| [commitstreams-server](https://github.com/foyzulkarim/commitstreams-server) | 18 |
+| [ScreenshotTaker](https://github.com/foyzulkarim/ScreenshotTaker) | 17 |
 
 <!--TOP_REPOS_END-->
 
