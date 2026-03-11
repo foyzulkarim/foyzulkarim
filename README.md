@@ -6,13 +6,13 @@
 | Metric | Count |
 |--------|-------|
 | Repositories | <!--TOTAL_REPOS-->131<!--/TOTAL_REPOS--> |
-| Stars | <!--TOTAL_STARS-->1574<!--/TOTAL_STARS--> |
+| Stars | <!--TOTAL_STARS-->1573<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->568<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1913<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->782<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->865<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-03-10 00:32 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-03-11 00:33 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 200 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 131 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 102 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 58 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 51 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 29 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 189 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 178 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 116 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 92 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 48 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 32 |
 | [bizbook-server](https://github.com/foyzulkarim/bizbook-server) | 21 |
-| [ScreenshotTaker](https://github.com/foyzulkarim/ScreenshotTaker) | 17 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 16 |
-| [mcollina-skills](https://github.com/foyzulkarim/mcollina-skills) | 16 |
+| [mcollina-skills](https://github.com/foyzulkarim/mcollina-skills) | 17 |
+| [ScreenshotTaker](https://github.com/foyzulkarim/ScreenshotTaker) | 15 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 14 |
 
 <!--TOP_REPOS_END-->
 
