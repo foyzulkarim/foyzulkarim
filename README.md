@@ -10,9 +10,9 @@
 | Forks | <!--TOTAL_FORKS-->568<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1913<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->865<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->776<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-03-11 00:33 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-03-12 00:30 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 189 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 178 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 116 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 92 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 48 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 32 |
-| [bizbook-server](https://github.com/foyzulkarim/bizbook-server) | 21 |
-| [mcollina-skills](https://github.com/foyzulkarim/mcollina-skills) | 17 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 185 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 106 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 96 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 94 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 46 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 36 |
+| [bizbook-server](https://github.com/foyzulkarim/bizbook-server) | 23 |
+| [mcollina-skills](https://github.com/foyzulkarim/mcollina-skills) | 18 |
+| [codiesvibe](https://github.com/foyzulkarim/codiesvibe) | 15 |
 | [ScreenshotTaker](https://github.com/foyzulkarim/ScreenshotTaker) | 15 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 14 |
 
 <!--TOP_REPOS_END-->
 
