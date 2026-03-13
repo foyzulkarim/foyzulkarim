@@ -6,13 +6,13 @@
 | Metric | Count |
 |--------|-------|
 | Repositories | <!--TOTAL_REPOS-->131<!--/TOTAL_REPOS--> |
-| Stars | <!--TOTAL_STARS-->1573<!--/TOTAL_STARS--> |
+| Stars | <!--TOTAL_STARS-->1572<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->568<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1913<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->776<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->740<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-03-12 00:30 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-03-13 00:35 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 185 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 106 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 96 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 94 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 46 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 188 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 97 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 94 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 81 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 45 |
 | [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 36 |
+| [mcollina-skills](https://github.com/foyzulkarim/mcollina-skills) | 24 |
 | [bizbook-server](https://github.com/foyzulkarim/bizbook-server) | 23 |
-| [mcollina-skills](https://github.com/foyzulkarim/mcollina-skills) | 18 |
-| [codiesvibe](https://github.com/foyzulkarim/codiesvibe) | 15 |
-| [ScreenshotTaker](https://github.com/foyzulkarim/ScreenshotTaker) | 15 |
+| [codiesvibe](https://github.com/foyzulkarim/codiesvibe) | 14 |
+| [bizbook-server-dotnet-core](https://github.com/foyzulkarim/bizbook-server-dotnet-core) | 13 |
 
 <!--TOP_REPOS_END-->
 
