@@ -9,10 +9,10 @@
 | Stars | <!--TOTAL_STARS-->1572<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->568<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1913<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->740<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1914<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->700<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-03-13 00:35 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-03-14 00:34 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -31,15 +31,15 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 | Repository | Views |
 |------------|-------|
 | [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 188 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 97 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 94 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 81 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 45 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 36 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 99 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 93 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 57 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 36 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 35 |
 | [mcollina-skills](https://github.com/foyzulkarim/mcollina-skills) | 24 |
 | [bizbook-server](https://github.com/foyzulkarim/bizbook-server) | 23 |
 | [codiesvibe](https://github.com/foyzulkarim/codiesvibe) | 14 |
-| [bizbook-server-dotnet-core](https://github.com/foyzulkarim/bizbook-server-dotnet-core) | 13 |
+| [bizbook-server-dotnet-core](https://github.com/foyzulkarim/bizbook-server-dotnet-core) | 12 |
 
 <!--TOP_REPOS_END-->
 
