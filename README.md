@@ -5,14 +5,14 @@
 
 | Metric | Count |
 |--------|-------|
-| Repositories | <!--TOTAL_REPOS-->131<!--/TOTAL_REPOS--> |
-| Stars | <!--TOTAL_STARS-->1572<!--/TOTAL_STARS--> |
-| Forks | <!--TOTAL_FORKS-->568<!--/TOTAL_FORKS--> |
+| Repositories | <!--TOTAL_REPOS-->132<!--/TOTAL_REPOS--> |
+| Stars | <!--TOTAL_STARS-->1580<!--/TOTAL_STARS--> |
+| Forks | <!--TOTAL_FORKS-->570<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1914<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->700<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1916<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->697<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-03-14 00:34 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-03-15 00:41 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 188 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 99 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 93 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 57 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 36 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 186 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 95 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 83 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 48 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 41 |
 | [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 35 |
-| [mcollina-skills](https://github.com/foyzulkarim/mcollina-skills) | 24 |
+| [mcollina-skills](https://github.com/foyzulkarim/mcollina-skills) | 25 |
 | [bizbook-server](https://github.com/foyzulkarim/bizbook-server) | 23 |
+| [bizbook-server-dotnet-core](https://github.com/foyzulkarim/bizbook-server-dotnet-core) | 22 |
 | [codiesvibe](https://github.com/foyzulkarim/codiesvibe) | 14 |
-| [bizbook-server-dotnet-core](https://github.com/foyzulkarim/bizbook-server-dotnet-core) | 12 |
 
 <!--TOP_REPOS_END-->
 
