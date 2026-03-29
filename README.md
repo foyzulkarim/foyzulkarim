@@ -5,14 +5,14 @@
 
 | Metric | Count |
 |--------|-------|
-| Repositories | <!--TOTAL_REPOS-->132<!--/TOTAL_REPOS--> |
+| Repositories | <!--TOTAL_REPOS-->133<!--/TOTAL_REPOS--> |
 | Stars | <!--TOTAL_STARS-->1597<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->571<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1916<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->2172<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->2184<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-03-28 00:37 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-03-29 00:42 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,14 +30,14 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [skills](https://github.com/foyzulkarim/skills) | 974 |
-| [express-api-starter](https://github.com/foyzulkarim/express-api-starter) | 525 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 116 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 77 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 75 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 66 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 56 |
-| [mcollina-skills](https://github.com/foyzulkarim/mcollina-skills) | 53 |
+| [skills](https://github.com/foyzulkarim/skills) | 980 |
+| [express-api-starter](https://github.com/foyzulkarim/express-api-starter) | 529 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 112 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 87 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 74 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 68 |
+| [mcollina-skills](https://github.com/foyzulkarim/mcollina-skills) | 52 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 52 |
 | [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 37 |
 | [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 26 |
 
