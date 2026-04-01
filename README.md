@@ -6,13 +6,13 @@
 | Metric | Count |
 |--------|-------|
 | Repositories | <!--TOTAL_REPOS-->133<!--/TOTAL_REPOS--> |
-| Stars | <!--TOTAL_STARS-->1598<!--/TOTAL_STARS--> |
+| Stars | <!--TOTAL_STARS-->1596<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->571<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1918<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1491<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1919<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1426<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-03-31 00:40 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-04-01 00:44 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [skills](https://github.com/foyzulkarim/skills) | 489 |
-| [express-api-starter](https://github.com/foyzulkarim/express-api-starter) | 407 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 83 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 65 |
+| [skills](https://github.com/foyzulkarim/skills) | 465 |
+| [express-api-starter](https://github.com/foyzulkarim/express-api-starter) | 371 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 84 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 67 |
 | [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 62 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 55 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 48 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 51 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 45 |
 | [nanoclaw](https://github.com/foyzulkarim/nanoclaw) | 32 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 31 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 29 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 28 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 28 |
 
 <!--TOP_REPOS_END-->
 
