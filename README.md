@@ -9,10 +9,10 @@
 | Stars | <!--TOTAL_STARS-->1599<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->572<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1920<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1209<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1921<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1474<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-04-05 00:43 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-04-06 00:42 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [skills](https://github.com/foyzulkarim/skills) | 379 |
-| [express-api-starter](https://github.com/foyzulkarim/express-api-starter) | 208 |
-| [llm-lens](https://github.com/foyzulkarim/llm-lens) | 108 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 77 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 70 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 52 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 41 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 36 |
+| [skills](https://github.com/foyzulkarim/skills) | 434 |
+| [llm-lens](https://github.com/foyzulkarim/llm-lens) | 361 |
+| [express-api-starter](https://github.com/foyzulkarim/express-api-starter) | 176 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 74 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 69 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 51 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 38 |
 | [nanoclaw](https://github.com/foyzulkarim/nanoclaw) | 33 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 27 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 32 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 25 |
 
 <!--TOP_REPOS_END-->
 
