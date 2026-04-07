@@ -10,9 +10,9 @@
 | Forks | <!--TOTAL_FORKS-->572<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->228<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1921<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1474<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1533<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-04-06 00:42 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-04-07 00:41 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [skills](https://github.com/foyzulkarim/skills) | 434 |
-| [llm-lens](https://github.com/foyzulkarim/llm-lens) | 361 |
-| [express-api-starter](https://github.com/foyzulkarim/express-api-starter) | 176 |
+| [skills](https://github.com/foyzulkarim/skills) | 450 |
+| [llm-lens](https://github.com/foyzulkarim/llm-lens) | 375 |
+| [express-api-starter](https://github.com/foyzulkarim/express-api-starter) | 147 |
 | [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 74 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 69 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 51 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 38 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 67 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 52 |
+| [mcollina-skills](https://github.com/foyzulkarim/mcollina-skills) | 38 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 37 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 35 |
 | [nanoclaw](https://github.com/foyzulkarim/nanoclaw) | 33 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 32 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 25 |
 
 <!--TOP_REPOS_END-->
 
