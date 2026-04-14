@@ -6,13 +6,13 @@
 | Metric | Count |
 |--------|-------|
 | Repositories | <!--TOTAL_REPOS-->134<!--/TOTAL_REPOS--> |
-| Stars | <!--TOTAL_STARS-->1602<!--/TOTAL_STARS--> |
+| Stars | <!--TOTAL_STARS-->1603<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->571<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1923<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1795<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1807<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-04-13 00:45 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-04-14 00:46 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [skills](https://github.com/foyzulkarim/skills) | 544 |
-| [llm-lens](https://github.com/foyzulkarim/llm-lens) | 486 |
-| [express-api-starter](https://github.com/foyzulkarim/express-api-starter) | 103 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 94 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 76 |
+| [skills](https://github.com/foyzulkarim/skills) | 547 |
+| [llm-lens](https://github.com/foyzulkarim/llm-lens) | 487 |
+| [express-api-starter](https://github.com/foyzulkarim/express-api-starter) | 100 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 93 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 81 |
 | [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 74 |
-| [addy-skills](https://github.com/foyzulkarim/addy-skills) | 68 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 63 |
+| [addy-skills](https://github.com/foyzulkarim/addy-skills) | 72 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 66 |
 | [mcollina-skills](https://github.com/foyzulkarim/mcollina-skills) | 44 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 32 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 31 |
 
 <!--TOP_REPOS_END-->
 
