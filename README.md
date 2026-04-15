@@ -10,9 +10,9 @@
 | Forks | <!--TOTAL_FORKS-->571<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1923<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1807<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1776<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-04-14 00:46 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-04-15 00:45 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [skills](https://github.com/foyzulkarim/skills) | 547 |
-| [llm-lens](https://github.com/foyzulkarim/llm-lens) | 487 |
-| [express-api-starter](https://github.com/foyzulkarim/express-api-starter) | 100 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 93 |
+| [skills](https://github.com/foyzulkarim/skills) | 531 |
+| [llm-lens](https://github.com/foyzulkarim/llm-lens) | 484 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 98 |
+| [express-api-starter](https://github.com/foyzulkarim/express-api-starter) | 97 |
 | [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 81 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 74 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 75 |
 | [addy-skills](https://github.com/foyzulkarim/addy-skills) | 72 |
 | [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 66 |
 | [mcollina-skills](https://github.com/foyzulkarim/mcollina-skills) | 44 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 31 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 33 |
 
 <!--TOP_REPOS_END-->
 
