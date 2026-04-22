@@ -6,13 +6,13 @@
 | Metric | Count |
 |--------|-------|
 | Repositories | <!--TOTAL_REPOS-->135<!--/TOTAL_REPOS--> |
-| Stars | <!--TOTAL_STARS-->1607<!--/TOTAL_STARS--> |
+| Stars | <!--TOTAL_STARS-->1609<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->575<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1927<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1759<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1708<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-04-21 00:46 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-04-22 00:43 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,15 +30,15 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [skills](https://github.com/foyzulkarim/skills) | 559 |
-| [llm-lens](https://github.com/foyzulkarim/llm-lens) | 267 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 203 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 91 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 77 |
-| [addy-skills](https://github.com/foyzulkarim/addy-skills) | 77 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 72 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 58 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 42 |
+| [skills](https://github.com/foyzulkarim/skills) | 542 |
+| [llm-lens](https://github.com/foyzulkarim/llm-lens) | 259 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 207 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 89 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 79 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 66 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 63 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 58 |
+| [ScreenshotTaker](https://github.com/foyzulkarim/ScreenshotTaker) | 41 |
 | [express-api-starter](https://github.com/foyzulkarim/express-api-starter) | 39 |
 
 <!--TOP_REPOS_END-->
