@@ -10,9 +10,9 @@
 | Forks | <!--TOTAL_FORKS-->575<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1927<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1827<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1862<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-04-23 00:48 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-04-24 00:48 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [skills](https://github.com/foyzulkarim/skills) | 579 |
-| [llm-lens](https://github.com/foyzulkarim/llm-lens) | 248 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 217 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 132 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 85 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 75 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 65 |
+| [skills](https://github.com/foyzulkarim/skills) | 607 |
+| [llm-lens](https://github.com/foyzulkarim/llm-lens) | 257 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 223 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 135 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 84 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 70 |
 | [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 64 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 59 |
 | [ScreenshotTaker](https://github.com/foyzulkarim/ScreenshotTaker) | 44 |
-| [express-api-starter](https://github.com/foyzulkarim/express-api-starter) | 33 |
+| [addy-skills](https://github.com/foyzulkarim/addy-skills) | 34 |
 
 <!--TOP_REPOS_END-->
 
