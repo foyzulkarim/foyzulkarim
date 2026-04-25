@@ -6,13 +6,13 @@
 | Metric | Count |
 |--------|-------|
 | Repositories | <!--TOTAL_REPOS-->135<!--/TOTAL_REPOS--> |
-| Stars | <!--TOTAL_STARS-->1609<!--/TOTAL_STARS--> |
+| Stars | <!--TOTAL_STARS-->1608<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->575<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1927<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1862<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1894<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-04-24 00:48 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-04-25 00:43 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,14 +30,14 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [skills](https://github.com/foyzulkarim/skills) | 607 |
-| [llm-lens](https://github.com/foyzulkarim/llm-lens) | 257 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 223 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 135 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 84 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 70 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 64 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 59 |
+| [skills](https://github.com/foyzulkarim/skills) | 604 |
+| [llm-lens](https://github.com/foyzulkarim/llm-lens) | 258 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 216 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 142 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 134 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 82 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 53 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 52 |
 | [ScreenshotTaker](https://github.com/foyzulkarim/ScreenshotTaker) | 44 |
 | [addy-skills](https://github.com/foyzulkarim/addy-skills) | 34 |
 
