@@ -5,14 +5,14 @@
 
 | Metric | Count |
 |--------|-------|
-| Repositories | <!--TOTAL_REPOS-->136<!--/TOTAL_REPOS--> |
-| Stars | <!--TOTAL_STARS-->1608<!--/TOTAL_STARS--> |
-| Forks | <!--TOTAL_FORKS-->575<!--/TOTAL_FORKS--> |
+| Repositories | <!--TOTAL_REPOS-->137<!--/TOTAL_REPOS--> |
+| Stars | <!--TOTAL_STARS-->1609<!--/TOTAL_STARS--> |
+| Forks | <!--TOTAL_FORKS-->576<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1928<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1567<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1929<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1583<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-04-28 00:50 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-04-29 00:52 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [skills](https://github.com/foyzulkarim/skills) | 449 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 208 |
-| [llm-lens](https://github.com/foyzulkarim/llm-lens) | 166 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 145 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 113 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 85 |
+| [skills](https://github.com/foyzulkarim/skills) | 428 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 216 |
+| [llm-lens](https://github.com/foyzulkarim/llm-lens) | 167 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 148 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 112 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 86 |
 | [ScreenshotTaker](https://github.com/foyzulkarim/ScreenshotTaker) | 45 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 39 |
 | [express-api-starter](https://github.com/foyzulkarim/express-api-starter) | 39 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 36 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 35 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 34 |
 
 <!--TOP_REPOS_END-->
 
