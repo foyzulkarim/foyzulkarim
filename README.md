@@ -5,14 +5,14 @@
 
 | Metric | Count |
 |--------|-------|
-| Repositories | <!--TOTAL_REPOS-->137<!--/TOTAL_REPOS--> |
-| Stars | <!--TOTAL_STARS-->1611<!--/TOTAL_STARS--> |
-| Forks | <!--TOTAL_FORKS-->578<!--/TOTAL_FORKS--> |
-| Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1929<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1583<!--/TOTAL_VIEWS--> |
+| Repositories | <!--TOTAL_REPOS-->138<!--/TOTAL_REPOS--> |
+| Stars | <!--TOTAL_STARS-->1640<!--/TOTAL_STARS--> |
+| Forks | <!--TOTAL_FORKS-->583<!--/TOTAL_FORKS--> |
+| Watchers | <!--TOTAL_WATCHERS-->231<!--/TOTAL_WATCHERS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1934<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1553<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-04-30 00:52 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-05-01 00:55 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [skills](https://github.com/foyzulkarim/skills) | 428 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 216 |
-| [llm-lens](https://github.com/foyzulkarim/llm-lens) | 167 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 148 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 112 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 86 |
-| [ScreenshotTaker](https://github.com/foyzulkarim/ScreenshotTaker) | 45 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 39 |
-| [express-api-starter](https://github.com/foyzulkarim/express-api-starter) | 39 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 34 |
+| [skills](https://github.com/foyzulkarim/skills) | 438 |
+| [llm-lens](https://github.com/foyzulkarim/llm-lens) | 166 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 150 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 134 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 129 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 81 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 39 |
+| [gitstats.xyz](https://github.com/foyzulkarim/gitstats.xyz) | 38 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 35 |
+| [ScreenshotTaker](https://github.com/foyzulkarim/ScreenshotTaker) | 35 |
 
 <!--TOP_REPOS_END-->
 
