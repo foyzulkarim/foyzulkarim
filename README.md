@@ -6,13 +6,13 @@
 | Metric | Count |
 |--------|-------|
 | Repositories | <!--TOTAL_REPOS-->139<!--/TOTAL_REPOS--> |
-| Stars | <!--TOTAL_STARS-->1670<!--/TOTAL_STARS--> |
+| Stars | <!--TOTAL_STARS-->1721<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->591<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->231<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1935<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->2297<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1939<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->3276<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-05-02 00:50 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-05-03 00:53 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 675 |
-| [skills](https://github.com/foyzulkarim/skills) | 472 |
-| [llm-lens](https://github.com/foyzulkarim/llm-lens) | 177 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 143 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 141 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 127 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 82 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 42 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 1620 |
+| [skills](https://github.com/foyzulkarim/skills) | 531 |
+| [llm-lens](https://github.com/foyzulkarim/llm-lens) | 149 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 146 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 134 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 131 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 89 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 48 |
 | [gitstats.xyz](https://github.com/foyzulkarim/gitstats.xyz) | 38 |
-| [ScreenshotTaker](https://github.com/foyzulkarim/ScreenshotTaker) | 35 |
+| [agentic-swe-slides](https://github.com/foyzulkarim/agentic-swe-slides) | 38 |
 
 <!--TOP_REPOS_END-->
 
