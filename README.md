@@ -6,13 +6,13 @@
 | Metric | Count |
 |--------|-------|
 | Repositories | <!--TOTAL_REPOS-->139<!--/TOTAL_REPOS--> |
-| Stars | <!--TOTAL_STARS-->1772<!--/TOTAL_STARS--> |
-| Forks | <!--TOTAL_FORKS-->597<!--/TOTAL_FORKS--> |
+| Stars | <!--TOTAL_STARS-->1792<!--/TOTAL_STARS--> |
+| Forks | <!--TOTAL_FORKS-->603<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->231<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1943<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->4494<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1946<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->5048<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-05-05 00:48 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-05-06 00:47 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 2810 |
-| [skills](https://github.com/foyzulkarim/skills) | 445 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 148 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 148 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 139 |
-| [tokenowl](https://github.com/foyzulkarim/tokenowl) | 100 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 94 |
-| [llm-lens](https://github.com/foyzulkarim/llm-lens) | 88 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 78 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 49 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 3262 |
+| [skills](https://github.com/foyzulkarim/skills) | 506 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 165 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 143 |
+| [tokenowl](https://github.com/foyzulkarim/tokenowl) | 135 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 131 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 93 |
+| [llm-lens](https://github.com/foyzulkarim/llm-lens) | 90 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 79 |
+| [agentic-swe-slides](https://github.com/foyzulkarim/agentic-swe-slides) | 49 |
 
 <!--TOP_REPOS_END-->
 
