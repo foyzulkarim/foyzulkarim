@@ -10,9 +10,9 @@
 | Forks | <!--TOTAL_FORKS-->612<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1948<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->5344<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->4241<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-05-16 00:51 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-05-17 00:56 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 3997 |
-| [skills](https://github.com/foyzulkarim/skills) | 524 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 3082 |
+| [skills](https://github.com/foyzulkarim/skills) | 446 |
 | [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 92 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 90 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 79 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 63 |
-| [express-api-starter](https://github.com/foyzulkarim/express-api-starter) | 55 |
-| [llm-lens](https://github.com/foyzulkarim/llm-lens) | 51 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 50 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 37 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 78 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 69 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 59 |
+| [express-api-starter](https://github.com/foyzulkarim/express-api-starter) | 50 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 41 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 33 |
+| [agentic-swe-slides](https://github.com/foyzulkarim/agentic-swe-slides) | 28 |
 
 <!--TOP_REPOS_END-->
 
