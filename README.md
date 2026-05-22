@@ -9,10 +9,10 @@
 | Stars | <!--TOTAL_STARS-->1841<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->611<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1948<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1888<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1947<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1612<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-05-21 00:59 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-05-22 00:58 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,11 +30,11 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 1061 |
-| [skills](https://github.com/foyzulkarim/skills) | 293 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 71 |
-| [express-api-starter](https://github.com/foyzulkarim/express-api-starter) | 60 |
-| [agentic-swe-slides](https://github.com/foyzulkarim/agentic-swe-slides) | 52 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 828 |
+| [skills](https://github.com/foyzulkarim/skills) | 264 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 65 |
+| [agentic-swe-slides](https://github.com/foyzulkarim/agentic-swe-slides) | 60 |
+| [express-api-starter](https://github.com/foyzulkarim/express-api-starter) | 47 |
 | [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 38 |
 | [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 34 |
 | [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 33 |
