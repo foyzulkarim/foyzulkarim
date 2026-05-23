@@ -10,9 +10,9 @@
 | Forks | <!--TOTAL_FORKS-->611<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1947<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1612<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1436<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-05-22 00:58 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-05-23 00:55 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 828 |
-| [skills](https://github.com/foyzulkarim/skills) | 264 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 65 |
-| [agentic-swe-slides](https://github.com/foyzulkarim/agentic-swe-slides) | 60 |
-| [express-api-starter](https://github.com/foyzulkarim/express-api-starter) | 47 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 38 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 34 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 685 |
+| [skills](https://github.com/foyzulkarim/skills) | 257 |
+| [agentic-swe-slides](https://github.com/foyzulkarim/agentic-swe-slides) | 62 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 58 |
+| [express-api-starter](https://github.com/foyzulkarim/express-api-starter) | 48 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 42 |
 | [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 33 |
-| [bizbook-server-dotnet-core](https://github.com/foyzulkarim/bizbook-server-dotnet-core) | 28 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 27 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 32 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 31 |
+| [bizbook-server-dotnet-core](https://github.com/foyzulkarim/bizbook-server-dotnet-core) | 27 |
 
 <!--TOP_REPOS_END-->
 
