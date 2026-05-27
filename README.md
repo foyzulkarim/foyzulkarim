@@ -6,13 +6,13 @@
 | Metric | Count |
 |--------|-------|
 | Repositories | <!--TOTAL_REPOS-->142<!--/TOTAL_REPOS--> |
-| Stars | <!--TOTAL_STARS-->1844<!--/TOTAL_STARS--> |
+| Stars | <!--TOTAL_STARS-->1843<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->610<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1948<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1118<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1066<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-05-26 00:56 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-05-27 00:59 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,14 +30,14 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 455 |
-| [skills](https://github.com/foyzulkarim/skills) | 184 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 385 |
+| [skills](https://github.com/foyzulkarim/skills) | 185 |
 | [agentic-swe-slides](https://github.com/foyzulkarim/agentic-swe-slides) | 63 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 55 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 48 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 41 |
-| [express-api-starter](https://github.com/foyzulkarim/express-api-starter) | 38 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 29 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 62 |
+| [express-api-starter](https://github.com/foyzulkarim/express-api-starter) | 52 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 50 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 34 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 34 |
 | [bizbook-server-dotnet-core](https://github.com/foyzulkarim/bizbook-server-dotnet-core) | 25 |
 | [hikma-pr](https://github.com/foyzulkarim/hikma-pr) | 23 |
 
