@@ -6,13 +6,13 @@
 | Metric | Count |
 |--------|-------|
 | Repositories | <!--TOTAL_REPOS-->142<!--/TOTAL_REPOS--> |
-| Stars | <!--TOTAL_STARS-->1845<!--/TOTAL_STARS--> |
+| Stars | <!--TOTAL_STARS-->1846<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->611<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1947<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1018<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1950<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1012<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-05-31 01:02 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-06-01 01:05 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 293 |
-| [skills](https://github.com/foyzulkarim/skills) | 167 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 286 |
+| [skills](https://github.com/foyzulkarim/skills) | 159 |
 | [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 128 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 52 |
-| [express-api-starter](https://github.com/foyzulkarim/express-api-starter) | 51 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 61 |
+| [express-api-starter](https://github.com/foyzulkarim/express-api-starter) | 50 |
 | [agentic-swe-slides](https://github.com/foyzulkarim/agentic-swe-slides) | 50 |
 | [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 43 |
 | [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 33 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 27 |
-| [bizbook-server-dotnet-core](https://github.com/foyzulkarim/bizbook-server-dotnet-core) | 24 |
+| [bizbook-server-dotnet-core](https://github.com/foyzulkarim/bizbook-server-dotnet-core) | 26 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 23 |
 
 <!--TOP_REPOS_END-->
 
