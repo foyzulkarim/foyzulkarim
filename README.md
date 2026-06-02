@@ -10,9 +10,9 @@
 | Forks | <!--TOTAL_FORKS-->611<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1950<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1012<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->975<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-06-01 01:05 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-06-02 01:04 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 286 |
-| [skills](https://github.com/foyzulkarim/skills) | 159 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 128 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 61 |
-| [express-api-starter](https://github.com/foyzulkarim/express-api-starter) | 50 |
-| [agentic-swe-slides](https://github.com/foyzulkarim/agentic-swe-slides) | 50 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 43 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 33 |
-| [bizbook-server-dotnet-core](https://github.com/foyzulkarim/bizbook-server-dotnet-core) | 26 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 23 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 266 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 150 |
+| [skills](https://github.com/foyzulkarim/skills) | 145 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 64 |
+| [express-api-starter](https://github.com/foyzulkarim/express-api-starter) | 46 |
+| [agentic-swe-slides](https://github.com/foyzulkarim/agentic-swe-slides) | 45 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 42 |
+| [bizbook-server-dotnet-core](https://github.com/foyzulkarim/bizbook-server-dotnet-core) | 27 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 25 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 22 |
 
 <!--TOP_REPOS_END-->
 
