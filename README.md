@@ -7,12 +7,12 @@
 |--------|-------|
 | Repositories | <!--TOTAL_REPOS-->142<!--/TOTAL_REPOS--> |
 | Stars | <!--TOTAL_STARS-->1846<!--/TOTAL_STARS--> |
-| Forks | <!--TOTAL_FORKS-->611<!--/TOTAL_FORKS--> |
+| Forks | <!--TOTAL_FORKS-->610<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1950<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->975<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->934<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-06-02 01:04 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-06-03 01:11 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 266 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 150 |
-| [skills](https://github.com/foyzulkarim/skills) | 145 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 270 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 152 |
+| [skills](https://github.com/foyzulkarim/skills) | 150 |
 | [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 64 |
-| [express-api-starter](https://github.com/foyzulkarim/express-api-starter) | 46 |
-| [agentic-swe-slides](https://github.com/foyzulkarim/agentic-swe-slides) | 45 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 42 |
-| [bizbook-server-dotnet-core](https://github.com/foyzulkarim/bizbook-server-dotnet-core) | 27 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 25 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 22 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 41 |
+| [express-api-starter](https://github.com/foyzulkarim/express-api-starter) | 36 |
+| [agentic-swe-slides](https://github.com/foyzulkarim/agentic-swe-slides) | 28 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 24 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 23 |
+| [bizbook-server-dotnet-core](https://github.com/foyzulkarim/bizbook-server-dotnet-core) | 20 |
 
 <!--TOP_REPOS_END-->
 
