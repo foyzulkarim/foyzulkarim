@@ -6,13 +6,13 @@
 | Metric | Count |
 |--------|-------|
 | Repositories | <!--TOTAL_REPOS-->142<!--/TOTAL_REPOS--> |
-| Stars | <!--TOTAL_STARS-->1846<!--/TOTAL_STARS--> |
+| Stars | <!--TOTAL_STARS-->1847<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->610<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1950<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->934<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1951<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->910<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-06-03 01:11 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-06-04 01:11 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 270 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 152 |
-| [skills](https://github.com/foyzulkarim/skills) | 150 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 249 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 153 |
+| [skills](https://github.com/foyzulkarim/skills) | 144 |
 | [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 64 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 41 |
-| [express-api-starter](https://github.com/foyzulkarim/express-api-starter) | 36 |
-| [agentic-swe-slides](https://github.com/foyzulkarim/agentic-swe-slides) | 28 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 43 |
+| [express-api-starter](https://github.com/foyzulkarim/express-api-starter) | 38 |
+| [agentic-swe-slides](https://github.com/foyzulkarim/agentic-swe-slides) | 32 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 29 |
 | [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 24 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 23 |
-| [bizbook-server-dotnet-core](https://github.com/foyzulkarim/bizbook-server-dotnet-core) | 20 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 19 |
 
 <!--TOP_REPOS_END-->
 
