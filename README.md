@@ -9,10 +9,10 @@
 | Stars | <!--TOTAL_STARS-->1847<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->610<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1951<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->910<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1952<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->869<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-06-04 01:11 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-06-05 01:02 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 249 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 231 |
 | [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 153 |
-| [skills](https://github.com/foyzulkarim/skills) | 144 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 64 |
+| [skills](https://github.com/foyzulkarim/skills) | 139 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 59 |
 | [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 43 |
-| [express-api-starter](https://github.com/foyzulkarim/express-api-starter) | 38 |
-| [agentic-swe-slides](https://github.com/foyzulkarim/agentic-swe-slides) | 32 |
+| [express-api-starter](https://github.com/foyzulkarim/express-api-starter) | 39 |
 | [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 29 |
 | [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 24 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 19 |
+| [agentic-swe-slides](https://github.com/foyzulkarim/agentic-swe-slides) | 23 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 18 |
 
 <!--TOP_REPOS_END-->
 
