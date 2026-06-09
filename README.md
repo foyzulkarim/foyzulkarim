@@ -9,10 +9,10 @@
 | Stars | <!--TOTAL_STARS-->1847<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->611<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1952<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->820<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1954<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->850<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-06-08 01:05 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-06-09 00:57 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 179 |
-| [skills](https://github.com/foyzulkarim/skills) | 168 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 132 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 63 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 34 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 31 |
-| [express-api-starter](https://github.com/foyzulkarim/express-api-starter) | 30 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 29 |
+| [skills](https://github.com/foyzulkarim/skills) | 179 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 167 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 131 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 62 |
+| [bizbook-client](https://github.com/foyzulkarim/bizbook-client) | 39 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 36 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 32 |
+| [express-api-starter](https://github.com/foyzulkarim/express-api-starter) | 27 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 26 |
 | [agentic-swe-slides](https://github.com/foyzulkarim/agentic-swe-slides) | 21 |
-| [ffmpeg-ui](https://github.com/foyzulkarim/ffmpeg-ui) | 15 |
 
 <!--TOP_REPOS_END-->
 
