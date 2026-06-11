@@ -10,9 +10,9 @@
 | Forks | <!--TOTAL_FORKS-->612<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1954<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->850<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->837<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-06-10 01:04 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-06-11 01:04 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [skills](https://github.com/foyzulkarim/skills) | 179 |
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 167 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 131 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 62 |
-| [bizbook-client](https://github.com/foyzulkarim/bizbook-client) | 39 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 36 |
+| [skills](https://github.com/foyzulkarim/skills) | 184 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 165 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 119 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 57 |
+| [bizbook-client](https://github.com/foyzulkarim/bizbook-client) | 40 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 37 |
 | [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 32 |
-| [express-api-starter](https://github.com/foyzulkarim/express-api-starter) | 27 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 26 |
-| [agentic-swe-slides](https://github.com/foyzulkarim/agentic-swe-slides) | 21 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 27 |
+| [agentic-swe-slides](https://github.com/foyzulkarim/agentic-swe-slides) | 20 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 18 |
 
 <!--TOP_REPOS_END-->
 
