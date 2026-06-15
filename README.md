@@ -9,10 +9,10 @@
 | Stars | <!--TOTAL_STARS-->1851<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->613<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1956<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->898<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1957<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->899<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-06-14 01:07 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-06-15 01:09 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,15 +30,15 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [skills](https://github.com/foyzulkarim/skills) | 194 |
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 184 |
-| [hifz-tester](https://github.com/foyzulkarim/hifz-tester) | 121 |
+| [skills](https://github.com/foyzulkarim/skills) | 207 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 170 |
+| [hifz-tester](https://github.com/foyzulkarim/hifz-tester) | 133 |
 | [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 55 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 41 |
 | [bizbook-client](https://github.com/foyzulkarim/bizbook-client) | 40 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 35 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 35 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 25 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 38 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 35 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 28 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 27 |
 | [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 23 |
 
 <!--TOP_REPOS_END-->
