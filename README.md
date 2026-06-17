@@ -10,9 +10,9 @@
 | Forks | <!--TOTAL_FORKS-->613<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1957<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->896<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->868<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-06-16 01:13 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-06-17 01:07 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -31,15 +31,15 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 | Repository | Views |
 |------------|-------|
 | [skills](https://github.com/foyzulkarim/skills) | 206 |
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 160 |
-| [hifz-tester](https://github.com/foyzulkarim/hifz-tester) | 156 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 41 |
+| [hifz-tester](https://github.com/foyzulkarim/hifz-tester) | 159 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 138 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 45 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 43 |
 | [bizbook-client](https://github.com/foyzulkarim/bizbook-client) | 39 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 37 |
 | [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 32 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 28 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 28 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 23 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 24 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 24 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 24 |
 
 <!--TOP_REPOS_END-->
 
