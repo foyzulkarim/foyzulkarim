@@ -10,9 +10,9 @@
 | Forks | <!--TOTAL_FORKS-->615<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1958<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->832<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->814<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-06-22 01:08 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-06-23 00:58 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [skills](https://github.com/foyzulkarim/skills) | 174 |
 | [hifz-tester](https://github.com/foyzulkarim/hifz-tester) | 166 |
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 114 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 86 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 45 |
+| [skills](https://github.com/foyzulkarim/skills) | 153 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 116 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 84 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 60 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 34 |
 | [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 34 |
-| [bizbook-client](https://github.com/foyzulkarim/bizbook-client) | 30 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 22 |
-| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 21 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 20 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 24 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 20 |
+| [agentic-swe-slides](https://github.com/foyzulkarim/agentic-swe-slides) | 20 |
 
 <!--TOP_REPOS_END-->
 
