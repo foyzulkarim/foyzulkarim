@@ -10,9 +10,9 @@
 | Forks | <!--TOTAL_FORKS-->616<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1958<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->796<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->776<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-06-24 00:55 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-06-25 00:59 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [hifz-tester](https://github.com/foyzulkarim/hifz-tester) | 159 |
-| [skills](https://github.com/foyzulkarim/skills) | 148 |
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 116 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 84 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 63 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 34 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 34 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 25 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 21 |
-| [agentic-swe-slides](https://github.com/foyzulkarim/agentic-swe-slides) | 20 |
+| [skills](https://github.com/foyzulkarim/skills) | 139 |
+| [hifz-tester](https://github.com/foyzulkarim/hifz-tester) | 137 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 108 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 75 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 65 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 38 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 31 |
+| [parcelkoi](https://github.com/foyzulkarim/parcelkoi) | 30 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 22 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 20 |
 
 <!--TOP_REPOS_END-->
 
