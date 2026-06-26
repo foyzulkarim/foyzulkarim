@@ -7,12 +7,12 @@
 |--------|-------|
 | Repositories | <!--TOTAL_REPOS-->144<!--/TOTAL_REPOS--> |
 | Stars | <!--TOTAL_STARS-->1855<!--/TOTAL_STARS--> |
-| Forks | <!--TOTAL_FORKS-->616<!--/TOTAL_FORKS--> |
+| Forks | <!--TOTAL_FORKS-->615<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1958<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->776<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->751<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-06-25 00:59 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-06-26 01:02 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [skills](https://github.com/foyzulkarim/skills) | 139 |
-| [hifz-tester](https://github.com/foyzulkarim/hifz-tester) | 137 |
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 108 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 75 |
+| [skills](https://github.com/foyzulkarim/skills) | 130 |
+| [hifz-tester](https://github.com/foyzulkarim/hifz-tester) | 113 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 107 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 76 |
 | [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 65 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 38 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 31 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 36 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 35 |
 | [parcelkoi](https://github.com/foyzulkarim/parcelkoi) | 30 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 22 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 20 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 30 |
+| [agentic-swe-slides](https://github.com/foyzulkarim/agentic-swe-slides) | 21 |
 
 <!--TOP_REPOS_END-->
 
