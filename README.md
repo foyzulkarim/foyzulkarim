@@ -10,9 +10,9 @@
 | Forks | <!--TOTAL_FORKS-->614<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1959<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->741<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->730<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-06-27 00:58 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-06-28 01:02 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [skills](https://github.com/foyzulkarim/skills) | 129 |
-| [hifz-tester](https://github.com/foyzulkarim/hifz-tester) | 97 |
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 91 |
+| [skills](https://github.com/foyzulkarim/skills) | 137 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 86 |
 | [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 76 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 70 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 42 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 35 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 71 |
+| [hifz-tester](https://github.com/foyzulkarim/hifz-tester) | 52 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 43 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 37 |
 | [parcelkoi](https://github.com/foyzulkarim/parcelkoi) | 30 |
 | [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 30 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 25 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 29 |
 
 <!--TOP_REPOS_END-->
 
