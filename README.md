@@ -7,12 +7,12 @@
 |--------|-------|
 | Repositories | <!--TOTAL_REPOS-->144<!--/TOTAL_REPOS--> |
 | Stars | <!--TOTAL_STARS-->1855<!--/TOTAL_STARS--> |
-| Forks | <!--TOTAL_FORKS-->614<!--/TOTAL_FORKS--> |
+| Forks | <!--TOTAL_FORKS-->615<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1959<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->758<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1961<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->725<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-06-29 01:03 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-06-30 00:59 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -32,14 +32,14 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 |------------|-------|
 | [skills](https://github.com/foyzulkarim/skills) | 137 |
 | [claude-lens](https://github.com/foyzulkarim/claude-lens) | 89 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 74 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 70 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 63 |
-| [hifz-tester](https://github.com/foyzulkarim/hifz-tester) | 45 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 41 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 37 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 79 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 68 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 64 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 42 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 38 |
 | [parcelkoi](https://github.com/foyzulkarim/parcelkoi) | 30 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 28 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 27 |
+| [hifz-tester](https://github.com/foyzulkarim/hifz-tester) | 22 |
 
 <!--TOP_REPOS_END-->
 
