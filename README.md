@@ -7,12 +7,12 @@
 |--------|-------|
 | Repositories | <!--TOTAL_REPOS-->143<!--/TOTAL_REPOS--> |
 | Stars | <!--TOTAL_STARS-->1853<!--/TOTAL_STARS--> |
-| Forks | <!--TOTAL_FORKS-->615<!--/TOTAL_FORKS--> |
+| Forks | <!--TOTAL_FORKS-->616<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1961<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->727<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->705<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-07-02 00:59 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-07-03 03:28 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [skills](https://github.com/foyzulkarim/skills) | 119 |
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 103 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 80 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 64 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 61 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 51 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 36 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 33 |
+| [skills](https://github.com/foyzulkarim/skills) | 108 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 104 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 67 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 66 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 62 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 56 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 40 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 32 |
 | [parcelkoi](https://github.com/foyzulkarim/parcelkoi) | 30 |
-| [agentic-swe-slides](https://github.com/foyzulkarim/agentic-swe-slides) | 20 |
+| [express-api-starter](https://github.com/foyzulkarim/express-api-starter) | 17 |
 
 <!--TOP_REPOS_END-->
 
