@@ -10,9 +10,9 @@
 | Forks | <!--TOTAL_FORKS-->616<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1961<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->705<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->703<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-07-03 03:28 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-07-04 03:21 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [skills](https://github.com/foyzulkarim/skills) | 108 |
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 104 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 67 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 66 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 62 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 56 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 40 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 32 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 108 |
+| [skills](https://github.com/foyzulkarim/skills) | 90 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 71 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 65 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 61 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 58 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 41 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 35 |
 | [parcelkoi](https://github.com/foyzulkarim/parcelkoi) | 30 |
-| [express-api-starter](https://github.com/foyzulkarim/express-api-starter) | 17 |
+| [hifz-tester](https://github.com/foyzulkarim/hifz-tester) | 17 |
 
 <!--TOP_REPOS_END-->
 
