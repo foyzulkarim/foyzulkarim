@@ -9,10 +9,10 @@
 | Stars | <!--TOTAL_STARS-->1856<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->616<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1961<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->950<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1962<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->973<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-07-08 02:52 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-07-09 03:30 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 303 |
-| [skills](https://github.com/foyzulkarim/skills) | 179 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 62 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 57 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 52 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 354 |
+| [skills](https://github.com/foyzulkarim/skills) | 187 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 66 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 54 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 48 |
 | [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 45 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 31 |
-| [parcelkoi](https://github.com/foyzulkarim/parcelkoi) | 30 |
 | [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 29 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 28 |
 | [llm-ledger](https://github.com/foyzulkarim/llm-ledger) | 25 |
+| [express-api-starter](https://github.com/foyzulkarim/express-api-starter) | 17 |
 
 <!--TOP_REPOS_END-->
 
