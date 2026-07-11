@@ -9,10 +9,10 @@
 | Stars | <!--TOTAL_STARS-->1857<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->615<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1962<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->971<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1961<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->978<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-07-10 03:32 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-07-11 02:48 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,15 +30,15 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 371 |
-| [skills](https://github.com/foyzulkarim/skills) | 179 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 57 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 50 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 47 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 45 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 32 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 30 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 396 |
+| [skills](https://github.com/foyzulkarim/skills) | 174 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 58 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 49 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 43 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 40 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 35 |
 | [llm-ledger](https://github.com/foyzulkarim/llm-ledger) | 27 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 26 |
 | [ScreenshotTaker](https://github.com/foyzulkarim/ScreenshotTaker) | 20 |
 
 <!--TOP_REPOS_END-->
