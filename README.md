@@ -6,13 +6,13 @@
 | Metric | Count |
 |--------|-------|
 | Repositories | <!--TOTAL_REPOS-->144<!--/TOTAL_REPOS--> |
-| Stars | <!--TOTAL_STARS-->1859<!--/TOTAL_STARS--> |
-| Forks | <!--TOTAL_FORKS-->615<!--/TOTAL_FORKS--> |
+| Stars | <!--TOTAL_STARS-->1861<!--/TOTAL_STARS--> |
+| Forks | <!--TOTAL_FORKS-->616<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1962<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1035<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1963<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1167<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-07-14 02:39 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-07-15 02:37 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 545 |
-| [skills](https://github.com/foyzulkarim/skills) | 167 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 47 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 41 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 39 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 30 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 27 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 673 |
+| [skills](https://github.com/foyzulkarim/skills) | 164 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 56 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 40 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 36 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 28 |
 | [llm-ledger](https://github.com/foyzulkarim/llm-ledger) | 27 |
-| [ScreenshotTaker](https://github.com/foyzulkarim/ScreenshotTaker) | 18 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 14 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 23 |
+| [ScreenshotTaker](https://github.com/foyzulkarim/ScreenshotTaker) | 19 |
+| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 13 |
 
 <!--TOP_REPOS_END-->
 
