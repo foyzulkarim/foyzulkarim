@@ -10,9 +10,9 @@
 | Forks | <!--TOTAL_FORKS-->616<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1963<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1259<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1346<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-07-16 02:45 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-07-17 02:48 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 703 |
-| [skills](https://github.com/foyzulkarim/skills) | 153 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 113 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 37 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 36 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 29 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 29 |
-| [llm-ledger](https://github.com/foyzulkarim/llm-ledger) | 27 |
-| [ScreenshotTaker](https://github.com/foyzulkarim/ScreenshotTaker) | 18 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 14 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 745 |
+| [skills](https://github.com/foyzulkarim/skills) | 179 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 128 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 34 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 33 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 31 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 30 |
+| [llm-ledger](https://github.com/foyzulkarim/llm-ledger) | 28 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 21 |
+| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 15 |
 
 <!--TOP_REPOS_END-->
 
