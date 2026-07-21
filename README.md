@@ -9,10 +9,10 @@
 | Stars | <!--TOTAL_STARS-->1863<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->617<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1963<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1364<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1965<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1397<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-07-20 03:22 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-07-21 02:50 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,15 +30,15 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 856 |
-| [skills](https://github.com/foyzulkarim/skills) | 148 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 109 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 918 |
+| [skills](https://github.com/foyzulkarim/skills) | 118 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 108 |
 | [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 31 |
 | [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 31 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 23 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 23 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 21 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 16 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 26 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 26 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 21 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 15 |
 | [ScreenshotTaker](https://github.com/foyzulkarim/ScreenshotTaker) | 13 |
 
 <!--TOP_REPOS_END-->
