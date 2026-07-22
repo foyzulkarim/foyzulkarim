@@ -10,9 +10,9 @@
 | Forks | <!--TOTAL_FORKS-->617<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1965<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1397<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1315<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-07-21 02:50 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-07-22 02:48 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 918 |
-| [skills](https://github.com/foyzulkarim/skills) | 118 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 108 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 31 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 31 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 26 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 26 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 21 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 15 |
-| [ScreenshotTaker](https://github.com/foyzulkarim/ScreenshotTaker) | 13 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 844 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 102 |
+| [skills](https://github.com/foyzulkarim/skills) | 95 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 44 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 32 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 28 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 28 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 25 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 14 |
+| [ScreenshotTaker](https://github.com/foyzulkarim/ScreenshotTaker) | 14 |
 
 <!--TOP_REPOS_END-->
 
