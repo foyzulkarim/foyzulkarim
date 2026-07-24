@@ -7,12 +7,12 @@
 |--------|-------|
 | Repositories | <!--TOTAL_REPOS-->144<!--/TOTAL_REPOS--> |
 | Stars | <!--TOTAL_STARS-->1863<!--/TOTAL_STARS--> |
-| Forks | <!--TOTAL_FORKS-->617<!--/TOTAL_FORKS--> |
+| Forks | <!--TOTAL_FORKS-->616<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1965<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1276<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1278<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-07-23 02:54 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-07-24 02:49 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 823 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 102 |
-| [skills](https://github.com/foyzulkarim/skills) | 87 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 44 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 31 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 30 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 24 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 20 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 808 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 125 |
+| [skills](https://github.com/foyzulkarim/skills) | 90 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 42 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 32 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 31 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 21 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 20 |
 | [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 15 |
-| [ScreenshotTaker](https://github.com/foyzulkarim/ScreenshotTaker) | 13 |
+| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 9 |
 
 <!--TOP_REPOS_END-->
 
