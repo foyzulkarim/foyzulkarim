@@ -5,14 +5,14 @@
 
 | Metric | Count |
 |--------|-------|
-| Repositories | <!--TOTAL_REPOS-->144<!--/TOTAL_REPOS--> |
-| Stars | <!--TOTAL_STARS-->1868<!--/TOTAL_STARS--> |
+| Repositories | <!--TOTAL_REPOS-->145<!--/TOTAL_REPOS--> |
+| Stars | <!--TOTAL_STARS-->1869<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->618<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1967<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1446<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1968<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1420<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-07-26 02:57 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-07-27 03:22 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 894 |
-| [skills](https://github.com/foyzulkarim/skills) | 154 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 862 |
+| [skills](https://github.com/foyzulkarim/skills) | 153 |
 | [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 119 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 45 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 40 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 32 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 25 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 19 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 15 |
-| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 10 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 57 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 37 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 31 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 24 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 20 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 14 |
+| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 12 |
 
 <!--TOP_REPOS_END-->
 
