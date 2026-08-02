@@ -9,10 +9,10 @@
 | Stars | <!--TOTAL_STARS-->1879<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->617<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1969<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1441<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1970<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1461<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-08-01 02:57 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-08-02 02:57 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 891 |
-| [skills](https://github.com/foyzulkarim/skills) | 178 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 69 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 58 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 893 |
+| [skills](https://github.com/foyzulkarim/skills) | 180 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 73 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 59 |
 | [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 40 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 36 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 34 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 32 |
-| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 10 |
-| [github-profile-metrics](https://github.com/foyzulkarim/github-profile-metrics) | 9 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 35 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 31 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 30 |
+| [blog](https://github.com/foyzulkarim/blog) | 22 |
+| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 9 |
 
 <!--TOP_REPOS_END-->
 
