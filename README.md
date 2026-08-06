@@ -6,13 +6,13 @@
 | Metric | Count |
 |--------|-------|
 | Repositories | <!--TOTAL_REPOS-->146<!--/TOTAL_REPOS--> |
-| Stars | <!--TOTAL_STARS-->1883<!--/TOTAL_STARS--> |
+| Stars | <!--TOTAL_STARS-->1884<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->615<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1969<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1474<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1971<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1501<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-08-05 02:40 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-08-06 02:43 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,14 +30,14 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 843 |
-| [skills](https://github.com/foyzulkarim/skills) | 194 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 74 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 851 |
+| [skills](https://github.com/foyzulkarim/skills) | 198 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 77 |
 | [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 55 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 51 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 45 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 52 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 50 |
 | [blog](https://github.com/foyzulkarim/blog) | 44 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 40 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 42 |
 | [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 18 |
 | [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 12 |
 
