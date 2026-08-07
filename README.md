@@ -6,13 +6,13 @@
 | Metric | Count |
 |--------|-------|
 | Repositories | <!--TOTAL_REPOS-->146<!--/TOTAL_REPOS--> |
-| Stars | <!--TOTAL_STARS-->1884<!--/TOTAL_STARS--> |
+| Stars | <!--TOTAL_STARS-->1885<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->615<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1971<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1501<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1584<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-08-06 02:43 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-08-07 02:45 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 851 |
-| [skills](https://github.com/foyzulkarim/skills) | 198 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 77 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 55 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 52 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 50 |
-| [blog](https://github.com/foyzulkarim/blog) | 44 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 42 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 869 |
+| [skills](https://github.com/foyzulkarim/skills) | 204 |
+| [blog](https://github.com/foyzulkarim/blog) | 107 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 76 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 61 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 57 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 55 |
 | [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 18 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 12 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 16 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 13 |
 
 <!--TOP_REPOS_END-->
 
