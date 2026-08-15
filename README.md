@@ -6,13 +6,13 @@
 | Metric | Count |
 |--------|-------|
 | Repositories | <!--TOTAL_REPOS-->147<!--/TOTAL_REPOS--> |
-| Stars | <!--TOTAL_STARS-->1884<!--/TOTAL_STARS--> |
+| Stars | <!--TOTAL_STARS-->1883<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->614<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1971<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1133<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1117<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-08-14 02:05 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-08-15 01:19 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 527 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 466 |
 | [blog](https://github.com/foyzulkarim/blog) | 138 |
-| [skills](https://github.com/foyzulkarim/skills) | 93 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 69 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 64 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 39 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 39 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 35 |
-| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 22 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 17 |
+| [skills](https://github.com/foyzulkarim/skills) | 121 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 71 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 65 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 42 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 40 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 38 |
+| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 21 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 16 |
 
 <!--TOP_REPOS_END-->
 
