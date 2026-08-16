@@ -7,12 +7,12 @@
 |--------|-------|
 | Repositories | <!--TOTAL_REPOS-->147<!--/TOTAL_REPOS--> |
 | Stars | <!--TOTAL_STARS-->1883<!--/TOTAL_STARS--> |
-| Forks | <!--TOTAL_FORKS-->614<!--/TOTAL_FORKS--> |
+| Forks | <!--TOTAL_FORKS-->615<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1971<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1117<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1972<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1086<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-08-15 01:19 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-08-16 01:24 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 466 |
-| [blog](https://github.com/foyzulkarim/blog) | 138 |
-| [skills](https://github.com/foyzulkarim/skills) | 121 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 71 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 65 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 42 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 40 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 430 |
+| [skills](https://github.com/foyzulkarim/skills) | 126 |
+| [blog](https://github.com/foyzulkarim/blog) | 123 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 75 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 75 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 43 |
 | [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 38 |
-| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 21 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 16 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 37 |
+| [foyzulkarim](https://github.com/foyzulkarim/foyzulkarim) | 19 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 18 |
 
 <!--TOP_REPOS_END-->
 
