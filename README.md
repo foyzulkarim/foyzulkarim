@@ -10,9 +10,9 @@
 | Forks | <!--TOTAL_FORKS-->616<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1971<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->748<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->776<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-08-21 01:23 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-08-22 01:19 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 225 |
-| [skills](https://github.com/foyzulkarim/skills) | 89 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 66 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 66 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 65 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 45 |
-| [blog](https://github.com/foyzulkarim/blog) | 40 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 25 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 18 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 14 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 232 |
+| [skills](https://github.com/foyzulkarim/skills) | 91 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 68 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 67 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 64 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 47 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 28 |
+| [blog](https://github.com/foyzulkarim/blog) | 27 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 19 |
+| [bizbook-server](https://github.com/foyzulkarim/bizbook-server) | 18 |
 
 <!--TOP_REPOS_END-->
 
