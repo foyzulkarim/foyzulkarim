@@ -9,10 +9,10 @@
 | Stars | <!--TOTAL_STARS-->1883<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->616<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1971<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->776<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1969<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->771<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-08-22 01:19 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-08-23 01:26 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 232 |
-| [skills](https://github.com/foyzulkarim/skills) | 91 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 235 |
+| [skills](https://github.com/foyzulkarim/skills) | 94 |
 | [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 68 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 67 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 64 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 66 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 64 |
 | [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 47 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 28 |
-| [blog](https://github.com/foyzulkarim/blog) | 27 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 19 |
-| [bizbook-server](https://github.com/foyzulkarim/bizbook-server) | 18 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 26 |
+| [blog](https://github.com/foyzulkarim/blog) | 22 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 20 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 17 |
 
 <!--TOP_REPOS_END-->
 
