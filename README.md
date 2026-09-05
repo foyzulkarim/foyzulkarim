@@ -6,13 +6,13 @@
 | Metric | Count |
 |--------|-------|
 | Repositories | <!--TOTAL_REPOS-->146<!--/TOTAL_REPOS--> |
-| Stars | <!--TOTAL_STARS-->1886<!--/TOTAL_STARS--> |
+| Stars | <!--TOTAL_STARS-->1885<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->615<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->229<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1972<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->960<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->962<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-09-04 03:27 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-09-05 03:29 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [skills](https://github.com/foyzulkarim/skills) | 242 |
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 179 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 100 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 87 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 63 |
+| [skills](https://github.com/foyzulkarim/skills) | 251 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 163 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 111 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 96 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 61 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 35 |
 | [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 29 |
-| [bizbook-server](https://github.com/foyzulkarim/bizbook-server) | 23 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 22 |
 | [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 20 |
 | [blog](https://github.com/foyzulkarim/blog) | 20 |
+| [agentic-swe-slides](https://github.com/foyzulkarim/agentic-swe-slides) | 19 |
 
 <!--TOP_REPOS_END-->
 
