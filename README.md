@@ -7,12 +7,12 @@
 |--------|-------|
 | Repositories | <!--TOTAL_REPOS-->146<!--/TOTAL_REPOS--> |
 | Stars | <!--TOTAL_STARS-->1887<!--/TOTAL_STARS--> |
-| Forks | <!--TOTAL_FORKS-->615<!--/TOTAL_FORKS--> |
+| Forks | <!--TOTAL_FORKS-->616<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->229<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1973<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->991<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1064<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-09-06 03:30 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-09-07 03:29 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,15 +30,15 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [skills](https://github.com/foyzulkarim/skills) | 289 |
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 150 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 115 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 93 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 61 |
+| [skills](https://github.com/foyzulkarim/skills) | 345 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 147 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 124 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 96 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 62 |
+| [blog](https://github.com/foyzulkarim/blog) | 38 |
 | [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 33 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 28 |
-| [blog](https://github.com/foyzulkarim/blog) | 28 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 19 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 27 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 21 |
 | [agentic-swe-slides](https://github.com/foyzulkarim/agentic-swe-slides) | 19 |
 
 <!--TOP_REPOS_END-->
