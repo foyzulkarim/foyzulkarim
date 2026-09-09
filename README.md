@@ -9,10 +9,10 @@
 | Stars | <!--TOTAL_STARS-->1887<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->616<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->229<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1973<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1064<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1974<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->989<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-09-08 03:35 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-09-09 03:40 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [skills](https://github.com/foyzulkarim/skills) | 345 |
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 147 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 124 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 96 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 62 |
-| [blog](https://github.com/foyzulkarim/blog) | 38 |
+| [skills](https://github.com/foyzulkarim/skills) | 317 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 135 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 111 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 84 |
+| [blog](https://github.com/foyzulkarim/blog) | 53 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 52 |
 | [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 33 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 27 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 21 |
-| [agentic-swe-slides](https://github.com/foyzulkarim/agentic-swe-slides) | 19 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 22 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 19 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 18 |
 
 <!--TOP_REPOS_END-->
 
