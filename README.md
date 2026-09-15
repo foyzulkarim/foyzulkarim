@@ -6,13 +6,13 @@
 | Metric | Count |
 |--------|-------|
 | Repositories | <!--TOTAL_REPOS-->146<!--/TOTAL_REPOS--> |
-| Stars | <!--TOTAL_STARS-->1889<!--/TOTAL_STARS--> |
+| Stars | <!--TOTAL_STARS-->1890<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->616<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->229<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1975<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->952<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1976<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->926<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-09-14 03:55 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-09-15 03:55 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [skills](https://github.com/foyzulkarim/skills) | 313 |
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 123 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 103 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 90 |
+| [skills](https://github.com/foyzulkarim/skills) | 302 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 116 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 104 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 84 |
 | [blog](https://github.com/foyzulkarim/blog) | 70 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 38 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 37 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 40 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 39 |
 | [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 31 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 19 |
-| [linux-playbook-javascript](https://github.com/foyzulkarim/linux-playbook-javascript) | 18 |
+| [linux-playbook-javascript](https://github.com/foyzulkarim/linux-playbook-javascript) | 17 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 17 |
 
 <!--TOP_REPOS_END-->
 
