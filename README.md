@@ -10,9 +10,9 @@
 | Forks | <!--TOTAL_FORKS-->616<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->229<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1974<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->623<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->672<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-09-21 03:55 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-09-22 03:52 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [skills](https://github.com/foyzulkarim/skills) | 127 |
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 89 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 88 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 46 |
+| [skills](https://github.com/foyzulkarim/skills) | 136 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 95 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 93 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 64 |
 | [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 43 |
-| [blog](https://github.com/foyzulkarim/blog) | 42 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 38 |
 | [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 37 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 17 |
-| [linux-playbook-javascript](https://github.com/foyzulkarim/linux-playbook-javascript) | 11 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 36 |
+| [blog](https://github.com/foyzulkarim/blog) | 31 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 18 |
+| [bizbook-server](https://github.com/foyzulkarim/bizbook-server) | 11 |
 
 <!--TOP_REPOS_END-->
 
