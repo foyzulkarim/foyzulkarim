@@ -10,9 +10,9 @@
 | Forks | <!--TOTAL_FORKS-->618<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1979<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->618<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->620<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-10-08 05:04 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-10-09 05:07 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 94 |
 | [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 90 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 81 |
 | [skills](https://github.com/foyzulkarim/skills) | 63 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 61 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 62 |
 | [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 53 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 42 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 35 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 26 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 44 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 38 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 34 |
 | [agentic-swe-slides](https://github.com/foyzulkarim/agentic-swe-slides) | 23 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 21 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 20 |
 
 <!--TOP_REPOS_END-->
 
