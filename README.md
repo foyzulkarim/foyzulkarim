@@ -9,10 +9,10 @@
 | Stars | <!--TOTAL_STARS-->1896<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->618<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1979<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->626<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1980<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->632<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-10-10 04:53 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-10-11 04:39 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 90 |
-| [skills](https://github.com/foyzulkarim/skills) | 85 |
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 79 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 62 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 56 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 42 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 36 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 35 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 89 |
+| [skills](https://github.com/foyzulkarim/skills) | 88 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 83 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 66 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 54 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 41 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 39 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 34 |
 | [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 22 |
-| [linux-playbook-javascript](https://github.com/foyzulkarim/linux-playbook-javascript) | 20 |
+| [linux-playbook-javascript](https://github.com/foyzulkarim/linux-playbook-javascript) | 22 |
 
 <!--TOP_REPOS_END-->
 
