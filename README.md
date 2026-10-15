@@ -5,14 +5,14 @@
 
 | Metric | Count |
 |--------|-------|
-| Repositories | <!--TOTAL_REPOS-->146<!--/TOTAL_REPOS--> |
+| Repositories | <!--TOTAL_REPOS-->147<!--/TOTAL_REPOS--> |
 | Stars | <!--TOTAL_STARS-->1898<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->618<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1982<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->592<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1983<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->553<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-10-14 04:00 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-10-15 03:42 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 88 |
-| [skills](https://github.com/foyzulkarim/skills) | 79 |
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 72 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 82 |
+| [skills](https://github.com/foyzulkarim/skills) | 78 |
 | [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 64 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 49 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 38 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 36 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 59 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 46 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 37 |
 | [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 32 |
-| [linux-playbook-javascript](https://github.com/foyzulkarim/linux-playbook-javascript) | 25 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 22 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 28 |
+| [linux-playbook-javascript](https://github.com/foyzulkarim/linux-playbook-javascript) | 21 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 19 |
 
 <!--TOP_REPOS_END-->
 
