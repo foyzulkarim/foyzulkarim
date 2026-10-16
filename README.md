@@ -6,13 +6,13 @@
 | Metric | Count |
 |--------|-------|
 | Repositories | <!--TOTAL_REPOS-->147<!--/TOTAL_REPOS--> |
-| Stars | <!--TOTAL_STARS-->1898<!--/TOTAL_STARS--> |
-| Forks | <!--TOTAL_FORKS-->618<!--/TOTAL_FORKS--> |
+| Stars | <!--TOTAL_STARS-->1897<!--/TOTAL_STARS--> |
+| Forks | <!--TOTAL_FORKS-->617<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1983<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->553<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->525<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-10-15 03:42 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-10-16 03:37 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 82 |
-| [skills](https://github.com/foyzulkarim/skills) | 78 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 64 |
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 59 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 46 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 37 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 32 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 28 |
-| [linux-playbook-javascript](https://github.com/foyzulkarim/linux-playbook-javascript) | 21 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 19 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 81 |
+| [skills](https://github.com/foyzulkarim/skills) | 76 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 59 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 49 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 48 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 33 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 29 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 27 |
+| [linux-playbook-javascript](https://github.com/foyzulkarim/linux-playbook-javascript) | 22 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 16 |
 
 <!--TOP_REPOS_END-->
 
