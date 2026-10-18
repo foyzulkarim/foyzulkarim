@@ -10,9 +10,9 @@
 | Forks | <!--TOTAL_FORKS-->617<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1984<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->507<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->493<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-10-17 03:28 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-10-18 03:34 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 75 |
-| [skills](https://github.com/foyzulkarim/skills) | 74 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 54 |
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 48 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 47 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 32 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 26 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 25 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 79 |
+| [skills](https://github.com/foyzulkarim/skills) | 71 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 53 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 49 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 49 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 33 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 25 |
 | [linux-playbook-javascript](https://github.com/foyzulkarim/linux-playbook-javascript) | 25 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 17 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 24 |
+| [llm-lens](https://github.com/foyzulkarim/llm-lens) | 9 |
 
 <!--TOP_REPOS_END-->
 
