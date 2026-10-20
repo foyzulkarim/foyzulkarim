@@ -9,10 +9,10 @@
 | Stars | <!--TOTAL_STARS-->1896<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->617<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1984<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->498<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1983<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->501<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-10-19 03:45 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-10-20 03:56 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 85 |
-| [skills](https://github.com/foyzulkarim/skills) | 69 |
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 53 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 50 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 47 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 82 |
+| [skills](https://github.com/foyzulkarim/skills) | 70 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 68 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 50 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 36 |
 | [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 29 |
-| [linux-playbook-javascript](https://github.com/foyzulkarim/linux-playbook-javascript) | 27 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 24 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 24 |
-| [llm-lens](https://github.com/foyzulkarim/llm-lens) | 9 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 25 |
+| [linux-playbook-javascript](https://github.com/foyzulkarim/linux-playbook-javascript) | 25 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 22 |
+| [ScreenshotTaker](https://github.com/foyzulkarim/ScreenshotTaker) | 10 |
 
 <!--TOP_REPOS_END-->
 
