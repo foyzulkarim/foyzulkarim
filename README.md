@@ -10,9 +10,9 @@
 | Forks | <!--TOTAL_FORKS-->617<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1982<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->303<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->333<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-10-25 03:42 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-10-26 03:46 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 64 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 47 |
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 33 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 63 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 51 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 34 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 32 |
 | [linux-playbook-javascript](https://github.com/foyzulkarim/linux-playbook-javascript) | 24 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 22 |
-| [skills](https://github.com/foyzulkarim/skills) | 16 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 15 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 15 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 18 |
+| [skills](https://github.com/foyzulkarim/skills) | 17 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 16 |
+| [codiesvibe_obsolete](https://github.com/foyzulkarim/codiesvibe_obsolete) | 10 |
 | [ScreenshotTaker](https://github.com/foyzulkarim/ScreenshotTaker) | 10 |
-| [codiesvibe_obsolete](https://github.com/foyzulkarim/codiesvibe_obsolete) | 9 |
 
 <!--TOP_REPOS_END-->
 
