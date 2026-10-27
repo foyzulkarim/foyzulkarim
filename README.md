@@ -12,7 +12,7 @@
 | Followers | <!--TOTAL_FOLLOWERS-->1982<!--/TOTAL_FOLLOWERS--> |
 | Views (14 days) | <!--TOTAL_VIEWS-->333<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-10-26 03:46 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-10-27 04:09 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 63 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 51 |
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 34 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 32 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 65 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 50 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 36 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 29 |
 | [linux-playbook-javascript](https://github.com/foyzulkarim/linux-playbook-javascript) | 24 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 18 |
-| [skills](https://github.com/foyzulkarim/skills) | 17 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 16 |
-| [codiesvibe_obsolete](https://github.com/foyzulkarim/codiesvibe_obsolete) | 10 |
-| [ScreenshotTaker](https://github.com/foyzulkarim/ScreenshotTaker) | 10 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 21 |
+| [skills](https://github.com/foyzulkarim/skills) | 18 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 12 |
+| [ScreenshotTaker](https://github.com/foyzulkarim/ScreenshotTaker) | 11 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 8 |
 
 <!--TOP_REPOS_END-->
 
