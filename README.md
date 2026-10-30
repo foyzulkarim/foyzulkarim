@@ -9,10 +9,10 @@
 | Stars | <!--TOTAL_STARS-->1897<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->616<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1982<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->353<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1981<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->410<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-10-29 04:51 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-10-30 04:51 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 65 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 44 |
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 42 |
-| [linux-playbook-javascript](https://github.com/foyzulkarim/linux-playbook-javascript) | 29 |
-| [skills](https://github.com/foyzulkarim/skills) | 27 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 26 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 16 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 64 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 62 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 45 |
+| [skills](https://github.com/foyzulkarim/skills) | 31 |
+| [linux-playbook-javascript](https://github.com/foyzulkarim/linux-playbook-javascript) | 27 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 24 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 23 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 18 |
 | [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 14 |
-| [ScreenshotTaker](https://github.com/foyzulkarim/ScreenshotTaker) | 11 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 10 |
+| [hifz-tester](https://github.com/foyzulkarim/hifz-tester) | 11 |
 
 <!--TOP_REPOS_END-->
 
