@@ -5,14 +5,14 @@
 
 | Metric | Count |
 |--------|-------|
-| Repositories | <!--TOTAL_REPOS-->148<!--/TOTAL_REPOS--> |
+| Repositories | <!--TOTAL_REPOS-->149<!--/TOTAL_REPOS--> |
 | Stars | <!--TOTAL_STARS-->1897<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->616<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1982<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->678<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1980<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->690<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-11-02 04:57 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-11-03 05:46 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 233 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 71 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 68 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 246 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 67 |
 | [skills](https://github.com/foyzulkarim/skills) | 46 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 31 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 44 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 38 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 33 |
 | [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 28 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 28 |
-| [linux-playbook-javascript](https://github.com/foyzulkarim/linux-playbook-javascript) | 24 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 26 |
+| [linux-playbook-javascript](https://github.com/foyzulkarim/linux-playbook-javascript) | 25 |
 | [hifz-tester](https://github.com/foyzulkarim/hifz-tester) | 24 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 19 |
 
 <!--TOP_REPOS_END-->
 
