@@ -10,9 +10,9 @@
 | Forks | <!--TOTAL_FORKS-->616<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1982<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->712<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->730<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-11-04 05:19 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-11-05 05:40 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 246 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 251 |
 | [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 70 |
 | [skills](https://github.com/foyzulkarim/skills) | 46 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 45 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 38 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 33 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 32 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 26 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 46 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 39 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 37 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 34 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 27 |
 | [hifz-tester](https://github.com/foyzulkarim/hifz-tester) | 26 |
-| [linux-playbook-javascript](https://github.com/foyzulkarim/linux-playbook-javascript) | 25 |
+| [linux-playbook-javascript](https://github.com/foyzulkarim/linux-playbook-javascript) | 23 |
 
 <!--TOP_REPOS_END-->
 
