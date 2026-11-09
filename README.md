@@ -9,10 +9,10 @@
 | Stars | <!--TOTAL_STARS-->1896<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->616<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1981<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1046<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1983<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1031<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-11-08 05:00 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-11-09 05:09 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 410 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 415 |
 | [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 86 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 68 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 64 |
-| [skills](https://github.com/foyzulkarim/skills) | 57 |
-| [hifz-tester](https://github.com/foyzulkarim/hifz-tester) | 47 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 42 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 64 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 62 |
+| [skills](https://github.com/foyzulkarim/skills) | 55 |
+| [hifz-tester](https://github.com/foyzulkarim/hifz-tester) | 43 |
 | [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 38 |
-| [codiesvibe_obsolete](https://github.com/foyzulkarim/codiesvibe_obsolete) | 31 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 30 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 34 |
+| [codiesvibe_obsolete](https://github.com/foyzulkarim/codiesvibe_obsolete) | 33 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 29 |
 
 <!--TOP_REPOS_END-->
 
