@@ -9,10 +9,10 @@
 | Stars | <!--TOTAL_STARS-->1896<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->616<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1983<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1031<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1981<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1026<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-11-09 05:09 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-11-10 06:25 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -31,15 +31,15 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 | Repository | Views |
 |------------|-------|
 | [claude-lens](https://github.com/foyzulkarim/claude-lens) | 415 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 86 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 64 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 62 |
-| [skills](https://github.com/foyzulkarim/skills) | 55 |
-| [hifz-tester](https://github.com/foyzulkarim/hifz-tester) | 43 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 38 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 81 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 66 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 59 |
+| [skills](https://github.com/foyzulkarim/skills) | 52 |
+| [hifz-tester](https://github.com/foyzulkarim/hifz-tester) | 44 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 36 |
 | [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 34 |
-| [codiesvibe_obsolete](https://github.com/foyzulkarim/codiesvibe_obsolete) | 33 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 29 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 32 |
+| [codiesvibe_obsolete](https://github.com/foyzulkarim/codiesvibe_obsolete) | 30 |
 
 <!--TOP_REPOS_END-->
 
