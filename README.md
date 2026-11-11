@@ -9,10 +9,10 @@
 | Stars | <!--TOTAL_STARS-->1896<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->616<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1981<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1026<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1982<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->1021<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-11-10 06:25 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-11-11 05:11 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,11 +30,11 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 415 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 81 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 418 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 82 |
 | [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 66 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 59 |
-| [skills](https://github.com/foyzulkarim/skills) | 52 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 63 |
+| [skills](https://github.com/foyzulkarim/skills) | 45 |
 | [hifz-tester](https://github.com/foyzulkarim/hifz-tester) | 44 |
 | [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 36 |
 | [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 34 |
