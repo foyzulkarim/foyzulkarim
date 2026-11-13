@@ -9,10 +9,10 @@
 | Stars | <!--TOTAL_STARS-->1896<!--/TOTAL_STARS--> |
 | Forks | <!--TOTAL_FORKS-->616<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1981<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->1012<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1982<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->988<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-11-12 06:15 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-11-13 05:36 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 420 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 81 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 66 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 63 |
-| [skills](https://github.com/foyzulkarim/skills) | 46 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 417 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 83 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 68 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 61 |
+| [skills](https://github.com/foyzulkarim/skills) | 44 |
 | [hifz-tester](https://github.com/foyzulkarim/hifz-tester) | 39 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 38 |
 | [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 36 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 31 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 32 |
 | [codiesvibe_obsolete](https://github.com/foyzulkarim/codiesvibe_obsolete) | 27 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 26 |
 
 <!--TOP_REPOS_END-->
 
