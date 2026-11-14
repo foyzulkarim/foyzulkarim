@@ -10,9 +10,9 @@
 | Forks | <!--TOTAL_FORKS-->616<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1982<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->988<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->829<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-11-13 05:36 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-11-14 05:27 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 417 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 83 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 68 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 61 |
-| [skills](https://github.com/foyzulkarim/skills) | 44 |
-| [hifz-tester](https://github.com/foyzulkarim/hifz-tester) | 39 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 36 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 32 |
-| [codiesvibe_obsolete](https://github.com/foyzulkarim/codiesvibe_obsolete) | 27 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 26 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 288 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 86 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 67 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 57 |
+| [skills](https://github.com/foyzulkarim/skills) | 34 |
+| [hifz-tester](https://github.com/foyzulkarim/hifz-tester) | 32 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 30 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 29 |
+| [codiesvibe_obsolete](https://github.com/foyzulkarim/codiesvibe_obsolete) | 28 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 27 |
 
 <!--TOP_REPOS_END-->
 
