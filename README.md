@@ -10,9 +10,9 @@
 | Forks | <!--TOTAL_FORKS-->616<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1982<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->784<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->744<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-11-16 05:22 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-11-17 07:01 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,14 +30,14 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 263 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 73 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 62 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 258 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 72 |
 | [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 57 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 31 |
-| [skills](https://github.com/foyzulkarim/skills) | 29 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 45 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 36 |
 | [hifz-tester](https://github.com/foyzulkarim/hifz-tester) | 27 |
-| [codiesvibe_obsolete](https://github.com/foyzulkarim/codiesvibe_obsolete) | 26 |
+| [skills](https://github.com/foyzulkarim/skills) | 26 |
+| [codiesvibe_obsolete](https://github.com/foyzulkarim/codiesvibe_obsolete) | 24 |
 | [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 22 |
 | [linux-playbook-javascript](https://github.com/foyzulkarim/linux-playbook-javascript) | 22 |
 
