@@ -10,9 +10,9 @@
 | Forks | <!--TOTAL_FORKS-->616<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
 | Followers | <!--TOTAL_FOLLOWERS-->1981<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->540<!--/TOTAL_VIEWS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->527<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-11-25 07:31 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-11-26 07:20 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 107 |
-| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 64 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 60 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 60 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 44 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 89 |
+| [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 63 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 59 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 59 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 45 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 25 |
 | [skills](https://github.com/foyzulkarim/skills) | 24 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 22 |
 | [linux-playbook-javascript](https://github.com/foyzulkarim/linux-playbook-javascript) | 17 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 15 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 13 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 14 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 14 |
 
 <!--TOP_REPOS_END-->
 
