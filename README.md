@@ -6,13 +6,13 @@
 | Metric | Count |
 |--------|-------|
 | Repositories | <!--TOTAL_REPOS-->153<!--/TOTAL_REPOS--> |
-| Stars | <!--TOTAL_STARS-->1899<!--/TOTAL_STARS--> |
-| Forks | <!--TOTAL_FORKS-->616<!--/TOTAL_FORKS--> |
+| Stars | <!--TOTAL_STARS-->1900<!--/TOTAL_STARS--> |
+| Forks | <!--TOTAL_FORKS-->617<!--/TOTAL_FORKS--> |
 | Watchers | <!--TOTAL_WATCHERS-->230<!--/TOTAL_WATCHERS--> |
-| Followers | <!--TOTAL_FOLLOWERS-->1981<!--/TOTAL_FOLLOWERS--> |
-| Views (14 days) | <!--TOTAL_VIEWS-->527<!--/TOTAL_VIEWS--> |
+| Followers | <!--TOTAL_FOLLOWERS-->1979<!--/TOTAL_FOLLOWERS--> |
+| Views (14 days) | <!--TOTAL_VIEWS-->506<!--/TOTAL_VIEWS--> |
 
-<sub>Last updated: <!--LAST_UPDATED-->2026-11-26 07:20 UTC<!--/LAST_UPDATED--></sub>
+<sub>Last updated: <!--LAST_UPDATED-->2026-11-27 07:16 UTC<!--/LAST_UPDATED--></sub>
 
 ---
 
@@ -30,16 +30,16 @@ The dashboard automatically updates daily and shows trends for repositories, sta
 <!--TOP_REPOS_START-->
 | Repository | Views |
 |------------|-------|
-| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 89 |
+| [claude-lens](https://github.com/foyzulkarim/claude-lens) | 81 |
 | [mern-video-streaming](https://github.com/foyzulkarim/mern-video-streaming) | 63 |
-| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 59 |
-| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 59 |
-| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 45 |
-| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 25 |
+| [nodejs-boilerplate](https://github.com/foyzulkarim/nodejs-boilerplate) | 55 |
+| [mernboilerplate-antd](https://github.com/foyzulkarim/mernboilerplate-antd) | 52 |
+| [nextjs-lms-boilerplate](https://github.com/foyzulkarim/nextjs-lms-boilerplate) | 44 |
+| [rbac-react-redux-aspnetcore](https://github.com/foyzulkarim/rbac-react-redux-aspnetcore) | 27 |
 | [skills](https://github.com/foyzulkarim/skills) | 24 |
-| [linux-playbook-javascript](https://github.com/foyzulkarim/linux-playbook-javascript) | 17 |
-| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 14 |
-| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 14 |
+| [linux-playbook-javascript](https://github.com/foyzulkarim/linux-playbook-javascript) | 14 |
+| [ip-camera-browser-client](https://github.com/foyzulkarim/ip-camera-browser-client) | 13 |
+| [terminal-in-browser](https://github.com/foyzulkarim/terminal-in-browser) | 12 |
 
 <!--TOP_REPOS_END-->
 
